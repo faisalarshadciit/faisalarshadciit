@@ -48,5 +48,7 @@ Feel free to reach out to me for any collaboration, opportunity, or just a techy
 
 - **Upwork**: [Faisal's Upwork Profile](https://www.upwork.com/freelancers/~0143722ece1833a4ed)
 - **LinkedIn**: [Faisal Arshad](https://www.linkedin.com/in/faisal-arshad-bb5ab1153/)
-<whatsapp-button phone="123456" dialcode="44" text="hello!" label="Start Chat"></whatsapp-button>
+
+<whatsapp-button phone="3088649850" dialcode="92" text="Hey there, lets chat!" label="Start Chat"></whatsapp-button>
+
 **Email**: faisalarshadciit@gmail.com
