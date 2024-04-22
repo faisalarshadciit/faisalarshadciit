@@ -20,35 +20,45 @@ Project Management Tools: Adept in GitLab, Bitbucket, and Trello for streamlined
 
 **💻 Programming Languages and Frameworks**
 
-- Flutter
-- Dart
-- Java
-- SwiftUI
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 **🔥 Backend as a Service (BaaS)**
 
-- Firebase
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
 
 **🔀 Version Control**
-- Git
-- Bitbucket
-- GitLab
+
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 
 **📝 Project Management**
-- Trello
+
+![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 **💬 Communication**
-- Slack
-- Skype
+
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
+![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
+
 -----------------------------------------------------------
 
 **🤝 Let's Connect!**
 
 Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
 
-- **Upwork**: [Faisal's Upwork Profile](https://www.upwork.com/freelancers/~0143722ece1833a4ed)
-- **LinkedIn**: [Faisal Arshad](https://www.linkedin.com/in/faisal-arshad-bb5ab1153/)
+[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-arshad-bb5ab1153)
+
+[![text](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0143722ece1833a4ed)
+
+[![text](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/faisalarshad850)
 
 <whatsapp-button phone="3088649850" dialcode="92" text="Hey there, lets chat!" label="Start Chat"></whatsapp-button>
 
 **Email**: faisalarshadciit@gmail.com
+
+
