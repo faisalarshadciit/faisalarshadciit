@@ -51,8 +51,6 @@ Project Management Tools: Adept in GitLab, Bitbucket, and Trello for streamlined
 
 Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-Chat%20with%20Me-brightgreen?logo=whatsapp)](https://wa.me/+923088649850)
-
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+923088649850)
 
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-arshad-bb5ab1153)
@@ -76,3 +74,34 @@ Ready to bring my skills and passion to your team. Let's create something amazin
 [![text](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/faisalarshad850)
  
 <whatsapp-button phone="3088649850" dialcode="92" text="Hey there, lets chat!" label="Start Chat"></whatsapp-button>
+
+-----------------------------------------------------------
+
+**📁 Portfolio/Projects**
+
+ Explore my creations and see what I can bring to the table!
+
+- *Pakistan Petrol Price Today*
+
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.atrule.pakistanpetrolpricetoday)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/pakistan-petrol-price-today/id6468675163)
+
+- *Motorway Conditions Today*
+
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.atrule.weatherhighway)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/motorway-conditions-today/id6472891321)
+
+- *Pakistani Brands*
+
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.atrule.fashionapp)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/pakistani-brands/id6476684286)
+
+- *Moye Moye - Making Weather Fun*
+
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.atrule.bakwaasmausam)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/moye-moye-making-weather-fun/id6479732025)
+
+- *Currency Rates And Converter*
+
+[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.atrule.currencyconverter)
+[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/currency-rates-and-converter/id6476143325)
