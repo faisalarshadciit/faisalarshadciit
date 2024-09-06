@@ -5,16 +5,34 @@
 -----------------------------------------------------------
 **📖 About Me**
 
-Passionate Mobile App Developer with 4+ years of experience specializing in Flutter, known for thriving in dynamic environments and for my agility in coding. With additional expertise in native Android development using Java and native iOS development using Swift, I've honed my skills in creating high-performing, feature-packed mobile applications. As a Top Rated Freelancer on Upwork, I've had the privilege to transform numerous ideas into successful apps across multiple platforms.
+I'm a passionate Mobile App Developer with over 4 years of experience, specializing in Flutter for cross-platform development. My background also includes extensive expertise in native Android development using Java and Kotlin Jetpack Compose, and native iOS development with SwiftUI. Known for thriving in dynamic environments and agile coding, I've successfully turned numerous ideas into high-performing, feature-rich apps across various platforms. As a Top Rated Freelancer on Upwork, I bring a proven track record of transforming client visions into impactful applications.
 
 -----------------------------------------------------------
 
 **🛠️ Skills & Expertise**
 
-Mobile App Development: Expert in Flutter, FlutterFlow, Native Android (Java), Native iOS (SwiftUI); proficient in creating high-quality iOS and Android apps.
-API Integration: Capable of integrating various APIs to achieve seamless functionality across platforms.
-Firebase: Extensive experience in utilizing Firebase to create dynamic, real-time, and scalable applications.
-Project Management Tools: Adept in GitLab, Bitbucket, and Trello for streamlined development processes.
+
+**Mobile App Development**: Expert in Flutter, FlutterFlow, Native Android (Java & Kotlin Jetpack Compose), Native iOS (SwiftUI); proficient in creating high-quality iOS and Android apps.
+
+**API Integration**: Proficient in integrating diverse APIs to ensure seamless functionality and connectivity across platforms.
+
+**Firebase**: Extensive experience in utilizing Firebase to create dynamic, real-time, and scalable applications.
+
+**State Management**: Skilled in managing state using Provider, GetX and other state management solutions in Flutter.
+
+**In-App Purchases**: Proficient in implementing In-App Purchases using RevenueCat/Qonversion for both Play Store and App Store.
+
+**Google Maps**: Experienced in integrating Google Maps into applications.
+
+**Google AdMob**: Experienced in integrating AdMob for in-app advertising.
+
+**MVC (Model-View-Controller)**: Skilled in applying MVC architecture for clean and maintainable code.
+
+**Deep Linking**: Experienced in implementing deep linking to enhance user navigation within apps.
+
+**OneSignal**: Experienced in integrating OneSignal for push notifications.
+
+**Project Management Tools**: Adept with GitLab, Bitbucket, and Trello, facilitating efficient and organized development processes.
 
 -----------------------------------------------------------
 
@@ -22,18 +40,20 @@ Project Management Tools: Adept in GitLab, Bitbucket, and Trello for streamlined
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
 **🔥 Backend as a Service (BaaS)**
 
 ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
 
 **🔀 Version Control**
 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
 
 **📝 Project Management**
 
