@@ -72,13 +72,9 @@ I'm a passionate Mobile App Developer with over 4 years of experience, specializ
 Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
 
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+923088649850)
-
 [![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-arshad-bb5ab1153)
-
 [![text](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white[)](https://www.facebook.com/faisal.arshad.927758)
-
 [![text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faisalarshad850/)
-
 [![text](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/faisalarshad850/)
 
 **Email**: faisalarshadciit@gmail.com
@@ -90,7 +86,6 @@ Feel free to reach out to me for any collaboration, opportunity, or just a techy
 Ready to bring my skills and passion to your team. Let's create something amazing together!
 
  [![text](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0143722ece1833a4ed)
-
 [![text](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/faisalarshad850)
  
 <whatsapp-button phone="3088649850" dialcode="92" text="Hey there, lets chat!" label="Start Chat"></whatsapp-button>
