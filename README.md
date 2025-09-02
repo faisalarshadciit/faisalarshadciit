@@ -1,122 +1,210 @@
-<h1>👋 Hi, I’m Faisal Arshad! </h1>
+<!-- Header Banner -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0ea5e9,100:22c55e,100:9333ea&height=280&section=header&text=Faisal%20Arshad&fontSize=48&fontColor=ffffff&fontAlignY=30&desc=Mobile%20App%20Engineer%20·%204%2B%20Years%20Experience%20·%2010%2B%20Published%20Apps&descSize=20&descAlign=50&descAlignY=50&descColor=ffffff" />
+</p>
 
-<h2>🌟 Top Rated Freelancer | 📱Expert Mobile App Developer</h2>
-
------------------------------------------------------------
-**📖 About Me**
-
-I'm a passionate Mobile App Developer with over 4 years of experience, specializing in Flutter for cross-platform development. My background also includes extensive expertise in native Android development using Java and Kotlin Jetpack Compose, and native iOS development with SwiftUI. Known for thriving in dynamic environments and agile coding, I've successfully turned numerous ideas into high-performing, feature-rich apps across various platforms. As a Top Rated Freelancer on Upwork, I bring a proven track record of transforming client visions into impactful applications.
-
------------------------------------------------------------
-
-**🛠️ Skills & Expertise**
+<!-- Animated typing tagline -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&center=true&vCenter=true&width=700&lines=Flutter+%7C+Kotlin+Multiplatform+%7C+iOS+%7C+Android;End-to-end+mobile+development;Automation+with+Make.com;RevenueCat%2FQonversion+IAPs+%7C+OneSignal+Push;Building+fast%2C+beautiful%2C+reliable+apps" alt="typing animation" />
+</p>
 
 
-**Mobile App Development**: Expert in Flutter, FlutterFlow, Native Android (Java & Kotlin Jetpack Compose), Native iOS (SwiftUI); proficient in creating high-quality iOS and Android apps.
+<h1 align="center">👋 Hi, I’m Faisal</h1>
+<h3 align="center">📱 Mobile App Developer | 🌍 Cross-Platform & Native Expert</h3>
 
-**API Integration**: Proficient in integrating diverse APIs to ensure seamless functionality and connectivity across platforms.
+---
 
-**Firebase**: Extensive experience in utilizing Firebase to create dynamic, real-time, and scalable applications.
+### 👨‍💻 About Me  
 
-**State Management**: Skilled in managing state using Provider, GetX and other state management solutions in Flutter.
+🚀 Mobile App Developer with **4+ years** experience in **Flutter, KMP, Android (Java/Kotlin), and iOS (Swift/SwiftUI)**.  
+🌍 Published **10+ apps** on Google Play & App Store serving thousands of users worldwide.  
+⚡ Certified in **Make.com automation**, passionate about building fast, reliable, and user-friendly digital products.  
 
-**In-App Purchases**: Proficient in implementing In-App Purchases using RevenueCat/Qonversion for both Play Store and App Store.
+---
 
-**Google Maps**: Experienced in integrating Google Maps into applications.
+<p align="center">
+  <b>✨ I love building apps that are fast, reliable, and delightful to use!</b>
+</p>
 
-**Google AdMob**: Experienced in integrating AdMob for in-app advertising.
+---
 
-**MVC (Model-View-Controller)**: Skilled in applying MVC architecture for clean and maintainable code.
+### 🛠️ Tech Stack  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,kotlin,java,swift,androidstudio,apple,firebase,supabase,postman,git,github,bitbucket,jira,trello" />
+</p>
 
-**Deep Linking**: Experienced in implementing deep linking to enhance user navigation within apps.
+---
 
-**OneSignal**: Experienced in integrating OneSignal for push notifications.
+### 📊 GitHub Stats  
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=faisalarshadciit&show_icons=true&theme=react&hide_title=true" />
+  <img height="150" src="https://github-readme-streak-stats.herokuapp.com?user=faisalarshadciit&theme=react" />
+</p>
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalarshadciit&layout=compact&theme=react" />
+</p>
 
-**Project Management Tools**: Adept with GitLab, Bitbucket, and Trello, facilitating efficient and organized development processes.
+---
 
------------------------------------------------------------
+### 📌 Featured Repositories  
+<p align="center">
+  <a href="https://github.com/faisalarshadciit/QRCode-Generator-Android-App">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalarshadciit&repo=QRCode-Generator-Android-App&theme=react" />
+  </a>
+  <a href="https://github.com/faisalarshadciit/Flutter-FoodDelivery-App-UI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalarshadciit&repo=Flutter-FoodDelivery-App-UI&theme=react" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/faisalarshadciit/WeatherApp-Flutter">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalarshadciit&repo=WeatherApp-Flutter&theme=react" />
+  </a>
+  <a href="https://github.com/faisalarshadciit/LinkedIn-Post-Fetcher">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalarshadciit&repo=LinkedIn-Post-Fetcher&theme=react" />
+  </a>
+</p>
 
-**💻 Programming Languages and Frameworks**
+---
 
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
-![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+### 📱 Published Apps
 
-**🔥 Backend as a Service (BaaS)**
+<p align="center">
+  <table>
+    <tr>
+      <td align="center" width="50%">
+        <img src="https://play-lh.googleusercontent.com/Th7gvhrIMUAleNekY22tEY4JDe5EavV2xyA0t6z8zDcnhP_iG1uyXWFq9HBb_jhke90=w240-h480" width="64" alt="Kivora Icon"/><br/>
+        <strong>Kivora – Trading Mindset</strong><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.kivora&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/kivora-trading-mindset/id6741102936"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+      <td align="center" width="50%">
+        <img src="https://play-lh.googleusercontent.com/tU7NVq3N_BtfVvlHUtcOpFs3D-9s7TXg4or_G9p2z5jbAzl63NZNZoG41MO50XJ0kg=w240-h480" width="64" alt="Market Countdown Icon"/><br/>
+        <strong>Market Countdown Times & News</strong><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.marketcountdown&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/market-countdown-times-news/id1668967522"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://play-lh.googleusercontent.com/DZftg28SuucshlLeWKvzCDfYwFm7ucUbY0Zv-bcDdP-M7_7AeIoqq_ZkyRK7b1_ZQRE=w240-h480" width="64" alt="MarketBeats Icon"/><br/>
+        <strong>MarketBeats – Activity Monitor</strong><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvesments.marketbeats&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/developer/black-tower-investments-ltd/id659419543"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+      <td align="center">
+        <img src="https://play-lh.googleusercontent.com/B3NMFWjUx5B5iXyHLOC1_o70Thzq0XCLQEkp2bt3CCKkhHKOjhE6_ycKj1qMTJhMlHo=w240-h480" width="64" alt="Market Opens Icon"/><br/>
+        <strong>Market Opens</strong><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.marketopens&hl=en"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/developer/black-tower-investments-ltd/id659419543"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://play-lh.googleusercontent.com/ydoQ92cr0Z_PHVXur-YuVvRSNbi46DzqH35tQ19I4nWuCGs9d0_4BpOkP09vT4IxEg=w240-h480" width="64" alt="Petrol Price App Icon"/><br/>
+        <strong>Pakistan Petrol Price Today</strong><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.atrule.pakistanpetrolpricetoday"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/pakistan-petrol-price-today/id6468675163"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+      <td align="center">
+        <img src="https://play-lh.googleusercontent.com/3DlnF-fz8otJnyX6poWXHaiM8qPWDiiMdiSWwXnhNKkPcWoo00E4Jf8rLCCl0q8be4M=w240-h480" width="64" alt="Pakistani Brands Icon"/><br/>
+        <strong>Pakistani Brands</strong><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.atrule.fashionapp"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/pakistani-brands/id6476684286"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://play-lh.googleusercontent.com/kdQxi_pECUJQbMop-Aid-H4xc88eHplmhELPO4S31lkecDMnlk_0xVMwZMdIb13qmQ=w240-h480" width="64" alt="Motorway Conditions Icon"/><br/>
+        <strong>Motorway Road Conditions Today</strong><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.atrule.weatherhighway"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/motorway-conditions-today/id6472891321"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+      <td align="center">
+        <img src="https://play-lh.googleusercontent.com/DTQJK3HLPx539hWwb_-DqPph34qrUql9d5ynuST6WepHMe42Z73xr5HV5eHVQX5JDU0=w240-h480" width="64" alt="Moye Moye Icon"/><br/>
+        <strong>Moye Moye – Weather Fun</strong><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.atrule.bakwaasmausam"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/moye-moye-making-weather-fun/id6479732025"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://play-lh.googleusercontent.com/0Y1cdCaRRPvcH50fgx5WwqJf14NVMsmo9BpeoPL4vuVNDZyF2d40zJt0xJDutC2Vlw=w240-h480" width="64" alt="Currency Converter Icon"/><br/>
+        <strong>Currency Rates & Converter</strong><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.atrule.currencyconverter"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/currency-rates-and-converter/id6476143325"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+      <td align="center">
+        <!-- Pakistan History Timeline (new) -->
+        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="64" alt="Pakistan History Timeline Icon"/><br/>
+        <strong>Pakistan History Timeline</strong><br/>
+        <a href="https://play.google.com/store/apps/details?id=com.atrule.pakistan"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/pakistan-history-timeline/id6476189201"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="60" alt="STINU"/><br/>
+        <strong>STINU Position Size Calculator</strong><br/>
+        <em>(Client Project)</em>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="60" alt="Position Pal"/><br/>
+        <strong>Position Pal – Stocks & Index</strong><br/>
+        <em>(Client Project)</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="60" alt="FX Meter"/><br/>
+        <strong>FX Meter – Currency Strength</strong><br/>
+        <em>(Client Project)</em>
+      </td>
+      <td align="center">
+        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="60" alt="Aajizz"/><br/>
+        <strong>Aajizz (Donation App)</strong><br/>
+        <em>(Private/Client Project)</em>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="60" alt="Food Calories"/><br/>
+        <strong>What To Eat: Food Calories</strong><br/>
+        <em>(Client Project)</em>
+      </td>
+      <td align="center">
+        <strong>Pakistan Famous Quotes</strong><br/>
+        <em>(Client Project)</em>
+      </td>
+    </tr>
+  </table>
+</p>
 
-![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+---
 
-**🔀 Version Control**
+### 🏆 Certifications  
 
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)
-![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Make.com-Basics-blue?style=for-the-badge&logo=google-forms&logoColor=white" alt="Make Basics"/>
+  <img src="https://img.shields.io/badge/Make.com-Foundation-green?style=for-the-badge&logo=google-forms&logoColor=white" alt="Make Foundation"/>
+</p>
 
-**📝 Project Management**
+<p align="center">
+  <em>Certified in workflow automation, control flow, and data integration with Make.com.</em>
+</p>
 
-![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+---
 
-**💬 Communication**
+### 🤝 Let’s Connect  
+<p align="center">
+  <a href="mailto:faisalarshadciit@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://wa.me/+923088649850"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/faisal-arshad-bb5ab1153"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~0143722ece1833a4ed"><img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.fiverr.com/faisalarshad850"><img src="https://img.shields.io/badge/Fiverr-Available-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+</p>
 
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Skype](https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)
+---
 
------------------------------------------------------------
-
-**🤝 Let's Connect!**
-
-Feel free to reach out to me for any collaboration, opportunity, or just a techy chit-chat!
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white)](https://wa.me/+923088649850)
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faisal-arshad-bb5ab1153)
-[![text](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white[)](https://www.facebook.com/faisal.arshad.927758)
-[![text](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/faisalarshad850/)
-[![text](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/faisalarshad850/)
-
-**Email**: faisalarshadciit@gmail.com
-
------------------------------------------------------------
-
- **💼 Hire Me!**
-
-Ready to bring my skills and passion to your team. Let's create something amazing together!
-
- [![text](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)](https://www.upwork.com/freelancers/~0143722ece1833a4ed)
-[![text](https://img.shields.io/badge/fiverr-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white)](https://www.fiverr.com/faisalarshad850)
- 
-<whatsapp-button phone="3088649850" dialcode="92" text="Hey there, lets chat!" label="Start Chat"></whatsapp-button>
-
------------------------------------------------------------
-
-**📁 Portfolio/Projects**
-
- Explore my creations and see what I can bring to the table!
-
-- *Pakistan Petrol Price Today*
-
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.atrule.pakistanpetrolpricetoday)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/pakistan-petrol-price-today/id6468675163)
-
-- *Motorway Conditions Today*
-
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.atrule.weatherhighway)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/motorway-conditions-today/id6472891321)
-
-- *Pakistani Brands*
-
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.atrule.fashionapp)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/pakistani-brands/id6476684286)
-
-- *Moye Moye - Making Weather Fun*
-
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.atrule.bakwaasmausam)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/moye-moye-making-weather-fun/id6479732025)
-
-- *Currency Rates And Converter*
-
-[![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=com.atrule.currencyconverter)
-[![App Store](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/currency-rates-and-converter/id6476143325)
+<p align="center">
+  <em>“Let’s build something fast, beautiful, and reliable.”</em>
+</p>
