@@ -168,10 +168,13 @@
 
 ### 📱 Published Apps  
 
+### 📱 Published Apps  
+
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Apps-9-blue?style=for-the-badge&logo=appstore&logoColor=white"/>
   <img src="https://img.shields.io/badge/Total_Installs-200K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
   <img src="https://img.shields.io/badge/Average_Rating-4.6★-gold?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Total_Reviews-6K%2B-lightgrey?style=for-the-badge&logo=google&logoColor=white"/>
 </p>
 
 <p align="center">
