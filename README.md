@@ -168,10 +168,8 @@
 
 ### 📱 Published Apps  
 
-### 📱 Published Apps  
-
 <p align="center">
-  <img src="https://img.shields.io/badge/Total_Apps-9-blue?style=for-the-badge&logo=appstore&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Total_Apps-10%2B-blue?style=for-the-badge&logo=appstore&logoColor=white"/>
   <img src="https://img.shields.io/badge/Total_Installs-200K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
   <img src="https://img.shields.io/badge/Average_Rating-4.6★-gold?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Total_Reviews-6K%2B-lightgrey?style=for-the-badge&logo=google&logoColor=white"/>
@@ -269,39 +267,44 @@
   <table>
     <tr>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="60" alt="STINU"/><br/>
+        <img src="https://play-lh.googleusercontent.com/NSnf15S86-b8i0V6nRo16v9zdwsU3Y2_CHAt2r0gYUMvuqhNiErf64IsP8H9m7p6Sw=s96-rw" width="60" alt="STINU"/><br/>
         <strong>STINU Position Size Calculator</strong><br/>
         <em>(Finance / Trading)</em>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="60" alt="Position Pal"/><br/>
+        <img src="https://play-lh.googleusercontent.com/6MS5KUBPCZ6UxgKHi4go2axIgywf9jd5E8TJMYqH4Vq99RkNuXMAt-mSwqPxcwNwgVw=w480-h960-rw" width="60" alt="Position Pal"/><br/>
         <strong>Position Pal – Stocks & Index</strong><br/>
         <em>(Stocks / Investment)</em>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="60" alt="FX Meter"/><br/>
+        <img src="https://play-lh.googleusercontent.com/6ZJ49PrtzS_ZvdyXpuwuE4PkscmvTUhLfSwOCUFQwBQd2wdu-OZSITt3YyLT3YjWskE=w480-h960-rw" width="60" alt="FX Meter"/><br/>
         <strong>FX Meter – Currency Strength</strong><br/>
         <em>(Forex / Trading)</em>
       </td>
       <td align="center" width="25%">
-        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="60" alt="Aajizz"/><br/>
+        <img src="https://play-lh.googleusercontent.com/CR17mbKGemglRFXxab2C8oCr-BYRwpWboXnpW0mwsDJ-8qg2-zcPTYZ3z2rc6Eji7uk=w480-h960-rw" width="60" alt="Aajizz"/><br/>
         <strong>Aajizz (Donation App)</strong><br/>
         <em>(Charity / Donations)</em>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="60" alt="Food Calories"/><br/>
+        <img src="https://play-lh.googleusercontent.com/IHi5SLEJmcyLEneufViZup9474FvquWAeumbDNe3I_Z_RXRYA9CvUSA2oy_fzWeiAkC7=s96-rw" width="60" alt="Food Calories"/><br/>
         <strong>What To Eat: Food Calories</strong><br/>
         <em>(Health / Lifestyle)</em>
       </td>
       <td align="center">
-        <img src="https://img.icons8.com/ios-filled/100/000000/iphone.png" width="60" alt="Pakistan Quotes"/><br/>
+        <img src="https://play-lh.googleusercontent.com/FMo3AiecxqQ13VNdEgRT7weNfxaMAGZanwQnHbgL3X2U5XlwQiTWw0t0bJZR2TDbR0sL=w480-h960-rw" width="60" alt="Pakistan Quotes"/><br/>
         <strong>Pakistan Famous Quotes</strong><br/>
         <em>(Education / Culture)</em>
       </td>
-      <td></td>
-      <td></td>
+      <td align="center">
+        <img src="https://play-lh.googleusercontent.com/4y3dx5CqAZWKMp7TSbKQ3-zvtdWSUq8w8bmOW9afGx9PNX1l5DwSG5UR2rlj6lQ_LFw=w480-h960-rw" width="60" alt="LylaCart"/><br/>
+        <strong>LylaCart</strong><br/>
+        <em>(Online Shopping)</em>
+      </td>
+      <td align="center">
+      </td>
     </tr>
   </table>
 </p>
@@ -311,23 +314,16 @@
 ### 🏆 Certifications  
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Make.com-Basics-blue?style=for-the-badge&logo=google-forms&logoColor=white" alt="Make Basics"/>
-  <img src="https://img.shields.io/badge/Make.com-Foundation-green?style=for-the-badge&logo=google-forms&logoColor=white" alt="Make Foundation"/>
+  <a href="https://www.credly.com/badges/88b847de-fd89-4629-ae66-3fea5d514920/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Make.com-Basics-0ea5e9?style=for-the-badge&logo=make&logoColor=white" alt="Make Basics"/>
+  </a>
+  <a href="https://www.credly.com/badges/5ef020c0-c826-4f76-a3d9-f14de789cf6b/linked_in_profile" target="_blank">
+    <img src="https://img.shields.io/badge/Make.com-Foundation-22c55e?style=for-the-badge&logo=make&logoColor=white" alt="Make Foundation"/>
+  </a>
 </p>
 
 <p align="center">
-  <em>Certified in workflow automation, control flow, and data integration with Make.com.</em>
-</p>
-
----
-
-### 🤝 Let’s Connect  
-<p align="center">
-  <a href="mailto:faisalarshadciit@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://wa.me/+923088649850"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/faisal-arshad-bb5ab1153"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.upwork.com/freelancers/~0143722ece1833a4ed"><img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
-  <a href="https://www.fiverr.com/faisalarshad850"><img src="https://img.shields.io/badge/Fiverr-Available-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
+  <em>✅ Certified in <b>workflow automation</b>, <b>control flow</b>, and <b>data integration</b> with Make.com.</em>
 </p>
 
 ---
