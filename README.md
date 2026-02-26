@@ -269,26 +269,26 @@
 ### 📌 Featured Repositories  
 <p align="center">
   <a href="https://github.com/faisalarshadciit/QRCode-Generator-Android-App">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalarshadciit&repo=QRCode-Generator-Android-App&theme=react" />
+    <img src="https://gh-card.dev/repos/faisalarshadciit/QRCode-Generator-Android-App.svg" alt="QRCode Generator Android App repo card" />
   </a>
   <a href="https://github.com/faisalarshadciit/Flutter-FoodDelivery-App-UI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalarshadciit&repo=Flutter-FoodDelivery-App-UI&theme=react" />
+    <img src="https://gh-card.dev/repos/faisalarshadciit/Flutter-FoodDelivery-App-UI.svg" alt="Flutter Food Delivery UI repo card" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/faisalarshadciit/WeatherApp-Flutter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalarshadciit&repo=WeatherApp-Flutter&theme=react" />
+    <img src="https://gh-card.dev/repos/faisalarshadciit/WeatherApp-Flutter.svg" alt="WeatherApp Flutter repo card" />
   </a>
   <a href="https://github.com/faisalarshadciit/LinkedIn-Post-Fetcher">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalarshadciit&repo=LinkedIn-Post-Fetcher&theme=react" />
+    <img src="https://gh-card.dev/repos/faisalarshadciit/LinkedIn-Post-Fetcher.svg" alt="LinkedIn Post Fetcher repo card" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/faisalarshadciit/EventBooking-UI-Flutter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalarshadciit&repo=EventBooking-UI-Flutter&theme=react" />
+    <img src="https://gh-card.dev/repos/faisalarshadciit/EventBooking-UI-Flutter.svg" alt="EventBooking UI Flutter repo card" />
   </a>
   <a href="https://github.com/faisalarshadciit/GoogleAdMob-Flutter">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=faisalarshadciit&repo=GoogleAdMob-Flutter&theme=react" />
+    <img src="https://gh-card.dev/repos/faisalarshadciit/GoogleAdMob-Flutter.svg" alt="Google AdMob Flutter repo card" />
   </a>
 </p>
 
@@ -297,16 +297,17 @@
 ### 📊 GitHub Stats  
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=faisalarshadciit&show_icons=true&theme=react&hide_border=false&count_private=true" alt="GitHub Stats"/>
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=faisalarshadciit&theme=react&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisalarshadciit&theme=github_dark" alt="GitHub Stats"/>
+  <img src="https://streak-stats.demolab.com?user=faisalarshadciit&theme=react&hide_border=false" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faisalarshadciit&layout=compact&theme=react&hide_border=false" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisalarshadciit&theme=github_dark" alt="Top Languages by Repo"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faisalarshadciit&theme=github_dark" alt="Top Languages by Commits"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=faisalarshadciit&theme=algolia&no-frame=true&margin-w=10&margin-h=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisalarshadciit&theme=github_dark" alt="GitHub Profile Details"/>
 </p>
 
 ---
