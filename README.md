@@ -41,7 +41,7 @@
 
 ### 👨‍💻 About Me  
 
-🚀 Mobile App Developer with **4+ years of experience**, building **cross-platform & native apps** using **Flutter, FlutterFlow, Android (Java/Kotlin), iOS (Swift/SwiftUI)**, and **Kotlin Multiplatform (KMP)**.  
+🚀 Mobile App Developer with **5+ years of experience**, building **cross-platform & native apps** using **Flutter, FlutterFlow, Android (Java/Kotlin), iOS (Swift/SwiftUI)**, and **Kotlin Multiplatform (KMP)**.  
 
 ⚡ Skilled in delivering **scalable, high-performing, and user-centric mobile solutions** — from rapid prototyping to full-scale production apps.  
 
