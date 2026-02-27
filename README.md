@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0ea5e9,100:22c55e,100:9333ea&height=280&section=header&text=Faisal%20Arshad&fontSize=48&fontColor=ffffff&fontAlignY=30&desc=Mobile%20App%20Engineer%20·%204%2B%20Years%20Experience%20·%2010%2B%20Published%20Apps&descSize=20&descAlign=50&descAlignY=50&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0ea5e9,100:22c55e,100:9333ea&height=280&section=header&text=Faisal%20Arshad&fontSize=48&fontColor=ffffff&fontAlignY=30&desc=Mobile%20App%20Engineer%20·%205%2B%20Years%20Experience%20·%2010%2B%20Published%20Apps&descSize=20&descAlign=50&descAlignY=50&descColor=ffffff" />
 </p>
 
 <!-- Animated typing tagline -->
