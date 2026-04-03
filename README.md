@@ -166,6 +166,92 @@
   <table>
     <tr>
       <td align="center" width="33%">
+        <img src="https://play-lh.googleusercontent.com/ydoQ92cr0Z_PHVXur-YuVvRSNbi46DzqH35tQ19I4nWuCGs9d0_4BpOkP09vT4IxEg=w240-h480" width="64" alt="Petrol Price App Icon"/><br/>
+        <strong>Pakistan Petrol Price Today</strong><br/>
+        <img src="https://img.shields.io/badge/Installs-100K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rating-4.5 (3K+)★-blue?style=for-the-badge"/> <br/>
+        <a href="https://play.google.com/store/apps/details?id=com.atrule.pakistanpetrolpricetoday"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/pakistan-petrol-price-today/id6468675163"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://play-lh.googleusercontent.com/NSnf15S86-b8i0V6nRo16v9zdwsU3Y2_CHAt2r0gYUMvuqhNiErf64IsP8H9m7p6Sw=s48-rw" width="64" alt="STINU Icon"/><br/>
+        <strong>STINU Position Size Calculator</strong><br/>
+        <img src="https://img.shields.io/badge/Installs-100K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rating-4.0★%20(2K+)-blue?style=for-the-badge"/> <br/>
+        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.stinu">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+        </a>
+        <a href="https://apps.apple.com/us/app/stinu-position-size-calculator/id1415292923">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+        </a>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://play-lh.googleusercontent.com/kdQxi_pECUJQbMop-Aid-H4xc88eHplmhELPO4S31lkecDMnlk_0xVMwZMdIb13qmQ=w240-h480" width="64" alt="Motorway Conditions Icon"/><br/>
+        <strong>Motorway Road Conditions Today</strong><br/>
+        <img src="https://img.shields.io/badge/Installs-50K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rating-4.7★%20(2K+)-blue?style=for-the-badge"/> <br/>
+        <a href="https://play.google.com/store/apps/details?id=com.atrule.weatherhighway"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/motorway-conditions-today/id6472891321"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://play-lh.googleusercontent.com/B3NMFWjUx5B5iXyHLOC1_o70Thzq0XCLQEkp2bt3CCKkhHKOjhE6_ycKj1qMTJhMlHo=w240-h480" width="64" alt="Market Opens Icon"/><br/>
+        <strong>Market Opens</strong><br/>
+        <img src="https://img.shields.io/badge/Installs-10K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rating-4.5★-blue?style=for-the-badge"/> <br/>
+        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.marketopens"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/market-opens/id1570812994"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://play-lh.googleusercontent.com/tU7NVq3N_BtfVvlHUtcOpFs3D-9s7TXg4or_G9p2z5jbAzl63NZNZoG41MO50XJ0kg=w240-h480" width="64" alt="Market Countdown Icon"/><br/>
+        <strong>Market Countdown Times & News</strong><br/>
+        <img src="https://img.shields.io/badge/Installs-10K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rating-5.0★%20(666)-blue?style=for-the-badge"/> <br/>
+        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.marketcountdown"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/market-countdown-times-news/id1668967522"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://play-lh.googleusercontent.com/6ZJ49PrtzS_ZvdyXpuwuE4PkscmvTUhLfSwOCUFQwBQd2wdu-OZSITt3YyLT3YjWskE=w240-h480-rw" width="64" alt="FX Meter Icon"/><br/>
+        <strong>FX Meter</strong><br/>
+        <img src="https://img.shields.io/badge/Installs-10K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rating-4.6★%20(713)-blue?style=for-the-badge"/> <br/>
+        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.fxmeter">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+        </a>
+        <a href="https://apps.apple.com/us/app/fx-meter-currency-strength/id1286671384">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
+        <img src="https://play-lh.googleusercontent.com/3DlnF-fz8otJnyX6poWXHaiM8qPWDiiMdiSWwXnhNKkPcWoo00E4Jf8rLCCl0q8be4M=w240-h480" width="64" alt="Pakistani Brands Icon"/><br/>
+        <strong>Pakistani Brands</strong><br/>
+        <img src="https://img.shields.io/badge/Installs-5K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rating-4.1★%20(52)-blue?style=for-the-badge"/> <br/>
+        <a href="https://play.google.com/store/apps/details?id=com.atrule.fashionapp"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/pakistani-brands/id6476684286"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://play-lh.googleusercontent.com/QuZqQCJ53bM9dJ3n4xVg7FnhGTeDP2Rn3jPQZ0Grq67ffl8H4mkLoKyPpi6i3XA9WB_U=w480-h960-rw" width="64" alt="Pakistan History Timeline Icon"/><br/>
+        <strong>Pakistan History Timeline</strong><br/>
+        <img src="https://img.shields.io/badge/Installs-5K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rating-4.1★%20(12)-blue?style=for-the-badge"/> <br/>
+        <a href="https://play.google.com/store/apps/details?id=com.atrule.pakistan"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/pakistan-history-timeline/id6476189201"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+      <td align="center" width="33%">
+        <img src="https://play-lh.googleusercontent.com/DZftg28SuucshlLeWKvzCDfYwFm7ucUbY0Zv-bcDdP-M7_7AeIoqq_ZkyRK7b1_ZQRE=w240-h480" width="64" alt="MarketBeats Icon"/><br/>
+        <strong>MarketBeats – Activity Monitor</strong><br/>
+        <img src="https://img.shields.io/badge/Installs-5K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rating-4.3★-blue?style=for-the-badge"/> <br/>
+        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvesments.marketbeats"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
+        <a href="https://apps.apple.com/us/app/market-beats-forex-signals/id1668968485"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center" width="33%">
         <img src="https://play-lh.googleusercontent.com/Th7gvhrIMUAleNekY22tEY4JDe5EavV2xyA0t6z8zDcnhP_iG1uyXWFq9HBb_jhke90=w240-h480" width="64" alt="Kivora Icon"/><br/>
         <il
         <strong>Kivora – Trading Mindset</strong><br/>
@@ -175,58 +261,18 @@
         <a href="https://apps.apple.com/us/app/kivora-trading-mindset/id6741102936"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
       </td>
       <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/tU7NVq3N_BtfVvlHUtcOpFs3D-9s7TXg4or_G9p2z5jbAzl63NZNZoG41MO50XJ0kg=w240-h480" width="64" alt="Market Countdown Icon"/><br/>
-        <strong>Market Countdown Times & News</strong><br/>
-        <img src="https://img.shields.io/badge/Installs-5K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.96★ (243)-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.marketcountdown"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/market-countdown-times-news/id1668967522"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+        <img src="https://play-lh.googleusercontent.com/6MS5KUBPCZ6UxgKHi4go2axIgywf9jd5E8TJMYqH4Vq99RkNuXMAt-mSwqPxcwNwgVw=w240-h480-rw" width="64" alt="Position Pal Icon"/><br/>
+        <strong>Position Pal</strong><br/>
+        <img src="https://img.shields.io/badge/Installs-1K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rating-4.0★-blue?style=for-the-badge"/> <br/>
+        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvesments.positionpal">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+        </a>
+        <a href="https://apps.apple.com/us/app/position-pal-stock-market-calc/id6447934226">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+        </a>
       </td>
       <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/DZftg28SuucshlLeWKvzCDfYwFm7ucUbY0Zv-bcDdP-M7_7AeIoqq_ZkyRK7b1_ZQRE=w240-h480" width="64" alt="MarketBeats Icon"/><br/>
-        <strong>MarketBeats – Activity Monitor</strong><br/>
-        <img src="https://img.shields.io/badge/Installs-5K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-5.0★-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvesments.marketbeats"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/market-beats-forex-signals/id1668968485"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://play-lh.googleusercontent.com/B3NMFWjUx5B5iXyHLOC1_o70Thzq0XCLQEkp2bt3CCKkhHKOjhE6_ycKj1qMTJhMlHo=w240-h480" width="64" alt="Market Opens Icon"/><br/>
-        <strong>Market Opens</strong><br/>
-        <img src="https://img.shields.io/badge/Installs-10K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.7★-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.marketopens"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/market-opens/id1570812994"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-      <td align="center">
-        <img src="https://play-lh.googleusercontent.com/ydoQ92cr0Z_PHVXur-YuVvRSNbi46DzqH35tQ19I4nWuCGs9d0_4BpOkP09vT4IxEg=w240-h480" width="64" alt="Petrol Price App Icon"/><br/>
-        <strong>Pakistan Petrol Price Today</strong><br/>
-        <img src="https://img.shields.io/badge/Installs-100K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.5 (3K+)★-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.atrule.pakistanpetrolpricetoday"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/pakistan-petrol-price-today/id6468675163"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-      <td align="center">
-        <img src="https://play-lh.googleusercontent.com/3DlnF-fz8otJnyX6poWXHaiM8qPWDiiMdiSWwXnhNKkPcWoo00E4Jf8rLCCl0q8be4M=w240-h480" width="64" alt="Pakistani Brands Icon"/><br/>
-        <strong>Pakistani Brands</strong><br/>
-        <img src="https://img.shields.io/badge/Installs-5K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.1 (48)★-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.atrule.fashionapp"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/pakistani-brands/id6476684286"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://play-lh.googleusercontent.com/kdQxi_pECUJQbMop-Aid-H4xc88eHplmhELPO4S31lkecDMnlk_0xVMwZMdIb13qmQ=w240-h480" width="64" alt="Motorway Conditions Icon"/><br/>
-        <strong>Motorway Road Conditions Today</strong><br/>
-        <img src="https://img.shields.io/badge/Installs-10K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.6★%20(1.4K%2B)-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.atrule.weatherhighway"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/motorway-conditions-today/id6472891321"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-      <td align="center">
         <img src="https://play-lh.googleusercontent.com/DTQJK3HLPx539hWwb_-DqPph34qrUql9d5ynuST6WepHMe42Z73xr5HV5eHVQX5JDU0=w240-h480" width="64" alt="Moye Moye Icon"/><br/>
         <strong>Moye Moye – Weather Fun</strong><br/>
         <img src="https://img.shields.io/badge/Installs-1K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
@@ -234,13 +280,19 @@
         <a href="https://play.google.com/store/apps/details?id=com.atrule.bakwaasmausam"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
         <a href="https://apps.apple.com/us/app/moye-moye-making-weather-fun/id6479732025"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
       </td>
+    </tr>
+    <tr>
       <td align="center">
-        <img src="https://play-lh.googleusercontent.com/QuZqQCJ53bM9dJ3n4xVg7FnhGTeDP2Rn3jPQZ0Grq67ffl8H4mkLoKyPpi6i3XA9WB_U=w480-h960-rw" width="64" alt="Pakistan History Timeline Icon"/><br/>
-        <strong>Pakistan History Timeline</strong><br/>
-        <img src="https://img.shields.io/badge/Installs-5K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.1★ (12)-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.atrule.pakistan"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/pakistan-history-timeline/id6476189201"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
+        <img src="https://play-lh.googleusercontent.com/3dXKkRrdw0VURIlSDv7cwbA0TW0uhbCRNkO5Phk_rkqgXnhvmMzO3ncpjqxYBlpJ_pmSi8k_f4g-LbeHkgU6kGI=w240-h480-rw" width="64" alt="BrainEquity Icon"/><br/>
+        <strong>BrainEquity Track Your Habits</strong><br/>
+        <img src="https://img.shields.io/badge/Installs-1K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Rating-5.0★-blue?style=for-the-badge"/> <br/>
+        <a href="https://play.google.com/store/apps/details?id=app.brainequity.brainequity">
+          <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
+        </a>
+        <a href="https://apps.apple.com/tt/app/brainequity-track-your-habits/id6745442620">
+          <img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/>
+        </a>
       </td>
     </tr>
   </table>
@@ -250,51 +302,25 @@
 
 ### 🔒 Client / Private Projects  
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="25%">
-        <img src="https://play-lh.googleusercontent.com/NSnf15S86-b8i0V6nRo16v9zdwsU3Y2_CHAt2r0gYUMvuqhNiErf64IsP8H9m7p6Sw=s96-rw" width="60" alt="STINU"/><br/>
-        <strong>STINU Position Size Calculator</strong><br/>
-        <em>(Finance / Trading)</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://play-lh.googleusercontent.com/6MS5KUBPCZ6UxgKHi4go2axIgywf9jd5E8TJMYqH4Vq99RkNuXMAt-mSwqPxcwNwgVw=w480-h960-rw" width="60" alt="Position Pal"/><br/>
-        <strong>Position Pal – Stocks & Index</strong><br/>
-        <em>(Stocks / Investment)</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://play-lh.googleusercontent.com/6ZJ49PrtzS_ZvdyXpuwuE4PkscmvTUhLfSwOCUFQwBQd2wdu-OZSITt3YyLT3YjWskE=w480-h960-rw" width="60" alt="FX Meter"/><br/>
-        <strong>FX Meter – Currency Strength</strong><br/>
-        <em>(Forex / Trading)</em>
-      </td>
-      <td align="center" width="25%">
-        <img src="https://play-lh.googleusercontent.com/CR17mbKGemglRFXxab2C8oCr-BYRwpWboXnpW0mwsDJ-8qg2-zcPTYZ3z2rc6Eji7uk=w480-h960-rw" width="60" alt="Aajizz"/><br/>
-        <strong>Aajizz (Donation App)</strong><br/>
-        <em>(Charity / Donations)</em>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://play-lh.googleusercontent.com/IHi5SLEJmcyLEneufViZup9474FvquWAeumbDNe3I_Z_RXRYA9CvUSA2oy_fzWeiAkC7=s96-rw" width="60" alt="Food Calories"/><br/>
-        <strong>What To Eat: Food Calories</strong><br/>
-        <em>(Health / Lifestyle)</em>
-      </td>
-      <td align="center">
-        <img src="https://play-lh.googleusercontent.com/FMo3AiecxqQ13VNdEgRT7weNfxaMAGZanwQnHbgL3X2U5XlwQiTWw0t0bJZR2TDbR0sL=w480-h960-rw" width="60" alt="Pakistan Quotes"/><br/>
-        <strong>Pakistan Famous Quotes</strong><br/>
-        <em>(Education / Culture)</em>
-      </td>
-      <td align="center">
-        <img src="https://play-lh.googleusercontent.com/4y3dx5CqAZWKMp7TSbKQ3-zvtdWSUq8w8bmOW9afGx9PNX1l5DwSG5UR2rlj6lQ_LFw=w480-h960-rw" width="60" alt="LylaCart"/><br/>
-        <strong>LylaCart</strong><br/>
-        <em>(Online Shopping)</em>
-      </td>
-      <td align="center">
-      </td>
-    </tr>
-  </table>
-</p>
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/4y3dx5CqAZWKMp7TSbKQ3-zvtdWSUq8w8bmOW9afGx9PNX1l5DwSG5UR2rlj6lQ_LFw=w480-h960-rw" width="64" alt="LylaCart"/><br/>
+      <strong>LylaCart (Shopping App)</strong><br/>
+      <em>(Online Shopping)</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/CR17mbKGemglRFXxab2C8oCr-BYRwpWboXnpW0mwsDJ-8qg2-zcPTYZ3z2rc6Eji7uk=w480-h960-rw" width="64" alt="Aajizz"/><br/>
+      <strong>Aajizz (Donation App)</strong><br/>
+      <em>(Charity / Donations)</em>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/btIgzqAzlb3OYTag94wYOyO-exTx4qkGZFfwopOydrJBWn4YbgdpNb2otjmBSRsgTA0=w240-h480-rw" width="64" alt="BusiBeez"/><br/>
+      <strong>BusiBeez</strong><br/>
+      <em>(Business / CRM Platform)</em>
+    </td>
+  </tr>
+</table>
 
 ---
 
