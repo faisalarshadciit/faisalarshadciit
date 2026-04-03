@@ -59,6 +59,38 @@
 
 ---
 
+### 💼 Professional Experience
+
+#### Senior Mobile App Engineer | ATRULE Technologies
+
+📍 Worked on production mobile applications for Android and iOS across finance, utility, eCommerce, charity, and business platforms.
+
+🚀 Led end to end mobile development using Flutter, Kotlin, Java, Jetpack Compose, and SwiftUI, covering architecture setup, feature development, API integration, testing, optimization, and store releases.
+
+⚡ Built and maintained scalable applications with focus on clean architecture, reusable components, performance optimization, and long term maintainability.
+
+🔗 Integrated REST APIs, Firebase services, WebSockets, push notifications, maps, subscriptions, and third party SDKs across multiple live products.
+
+💳 Implemented monetization flows including in app purchases, RevenueCat subscriptions, Google Pay, Apple Pay, and AdMob integrations.
+
+📦 Managed full release lifecycle including Play Store deployment, App Store submissions, production fixes, OTA updates, and version maintenance.
+
+🤝 Collaborated closely with product managers, designers, backend engineers, QA teams, and clients to deliver production ready mobile solutions.
+
+🏗 Delivered both public store apps and private client applications used in real business environments.
+
+---
+
+### 🧠 Engineering Highlights
+
+📱 **Cross Platform & Native Apps**  
+🏗 **Scalable Architecture**  
+🔗 **Advanced Integrations**  
+🚀 **Production Releases**  
+🤝 **Commercial Delivery**
+
+---
+
 ### 💻 Tech Stack
 
 **🔤 Languages**
@@ -150,6 +182,38 @@
 <p>
   <img src="https://img.shields.io/badge/Make.com-6366F1?style=for-the-badge" alt="Make"/>
 </p>
+
+---
+
+### 🚀 What I Can Build
+
+📱 **Full Mobile Apps**  
+🔧 **App Upgrades & Refactoring**  
+☁️ **Backend & Firebase Integration**  
+💳 **Subscriptions & Payments**  
+⚡ **Realtime Features**  
+🚀 **Store Releases & Optimization**
+
+---
+
+### 🎯 What Clients Usually Hire Me For
+
+🚀 **Product Launches**  
+🛠 **Codebase Upgrades**  
+🔥 **Complex Bug Fixing**  
+🔗 **System Integrations**  
+📈 **Growth Ready Releases**
+
+---
+
+### 🌍 Product Domains
+
+📈 **Finance & Trading**  
+🛒 **Commerce & Retail**  
+🧾 **Utilities & Everyday Apps**  
+❤️ **Charity & Social Impact**  
+📊 **Productivity & Tracking Tools**  
+🏢 **Business Platforms**
 
 ---
 
@@ -253,7 +317,6 @@
     <tr>
       <td align="center" width="33%">
         <img src="https://play-lh.googleusercontent.com/Th7gvhrIMUAleNekY22tEY4JDe5EavV2xyA0t6z8zDcnhP_iG1uyXWFq9HBb_jhke90=w240-h480" width="64" alt="Kivora Icon"/><br/>
-        <il
         <strong>Kivora – Trading Mindset</strong><br/>
         <img src="https://img.shields.io/badge/Installs-1K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
         <img src="https://img.shields.io/badge/Rating-5.0★-blue?style=for-the-badge"/> <br/>
@@ -372,6 +435,15 @@
 
 ---
 
+### 🌐 Open For Collaboration
+
+🚀 Freelance Mobile Projects  
+🤝 Long Term Product Partnerships  
+📱 Senior Mobile Engineering Roles  
+🔧 Architecture & Release Support
+
+---
+
 ### 🏆 Certifications
 
 <p align="center">
@@ -394,5 +466,5 @@
 ---
 
 <p align="center">
-  <em>“Let’s build something fast, beautiful, and reliable.”</em>
+  <em>Building mobile products that scale, perform, and last.</em>
 </p>
