@@ -1,17 +1,17 @@
 <!-- Header Banner -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0ea5e9,100:22c55e,100:9333ea&height=280&section=header&text=Faisal%20Arshad&fontSize=48&fontColor=ffffff&fontAlignY=30&desc=Mobile%20App%20Engineer%20·%205%2B%20Years%20Experience%20·%2010%2B%20Published%20Apps&descSize=20&descAlign=50&descAlignY=50&descColor=ffffff" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0ea5e9,50:22c55e,100:9333ea&height=280&section=header&text=Faisal%20Arshad&fontSize=48&fontColor=ffffff&fontAlignY=30&desc=Senior%20Mobile%20App%20Engineer%20·%205%2B%20Years%20Experience%20·%2010%2B%20Published%20Apps&descSize=20&descAlign=50&descAlignY=50&descColor=ffffff" />
 </p>
 
 <!-- Animated typing tagline -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&center=true&vCenter=true&width=800&lines=Cross-platform+%7C+Native+Mobile+Development;Rapid+Prototyping+with+Flutter+%26+FlutterFlow;State+Management+%7C+Backend+Integration;Payments+%26+Monetization+%7C+In-App+Engagement;CI%2FCD+%26+OTA+Delivery;Automation+with+Make.com;Building+fast%2C+scalable%2C+user-friendly+apps" alt="typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=3000&pause=800&center=true&vCenter=true&width=900&lines=Flutter+%7C+Kotlin+Multiplatform+%7C+Native+Android+%26+iOS;Jetpack+Compose+%7C+SwiftUI+%7C+Production+Grade+Apps;REST+APIs+%7C+Firebase+%7C+WebSockets+%7C+State+Management;Subscriptions+%7C+RevenueCat+%7C+Google+Play+%26+App+Store+Releases;Architecture+%7C+Performance+%7C+Long-term+Product+Maintenance;Building+scalable%2C+fast%2C+real-world+mobile+products" alt="typing animation" />
 </p>
 
 <h1 align="center">👋 Hi, I’m Faisal</h1>
-<h3 align="center">📱 Mobile App Developer | 🌍 Cross-Platform & Native Expert | ⚡ App Monetization & Automation</h3>
+<h3 align="center">📱 Senior Mobile App Engineer | Flutter • Kotlin Multiplatform • Android • iOS</h3>
 
-<!-- Social Links Row 1: Direct Contacts -->
+<!-- Social Links Row 1 -->
 <p align="center">
   <a href="mailto:faisalarshadciit@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://wa.me/+923088649850"><img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" /></a>
@@ -19,152 +19,136 @@
   <a href="https://twitter.com/faisalarshad850"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<!-- Social Links Row 2: Freelance Platforms -->
+<!-- Freelance Platforms -->
 <p align="center">
-  <a href="https://www.upwork.com/freelancers/~0143722ece1833a4ed"><img src="https://img.shields.io/badge/Upwork-Hire-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
+  <a href="https://www.upwork.com/freelancers/~0143722ece1833a4ed"><img src="https://img.shields.io/badge/Upwork-Top%20Rated-6FDA44?style=for-the-badge&logo=upwork&logoColor=white" /></a>
   <a href="https://www.fiverr.com/faisalarshad850"><img src="https://img.shields.io/badge/Fiverr-Available-1DBF73?style=for-the-badge&logo=fiverr&logoColor=white" /></a>
 </p>
 
 <!-- Profile Badges -->
 <p align="center">
-  <img src="https://img.shields.io/github/stars/faisalarshadciit?label=GitHub%20Stars&logo=github&style=for-the-badge" alt="GitHub Stars"/> 
+  <img src="https://img.shields.io/github/stars/faisalarshadciit?label=GitHub%20Stars&logo=github&style=for-the-badge" alt="GitHub Stars"/>
   <img src="https://img.shields.io/github/followers/faisalarshadciit?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=faisalarshadciit&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
 </p>
 
-<!-- Call To Action -->
+<!-- CTA -->
 <p align="center">
-  📩 <b>Open to freelance projects, collaborations, and full-time opportunities</b> 🚀
+  📩 <b>Open to freelance projects, product collaborations, and senior mobile engineering opportunities</b>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-🚀 Senior Mobile Application Developer with **5+ years of experience** building **native and cross platform mobile applications** for Android and iOS using **Flutter, Kotlin Multiplatform, Kotlin, Jetpack Compose, SwiftUI, and Java**.
+🚀 Senior Mobile App Engineer with **5+ years of experience** building **native and cross platform mobile applications** for Android and iOS using **Flutter, Kotlin Multiplatform, Kotlin, Jetpack Compose, SwiftUI, and Java**.
 
-⚡ Strong experience across **architecture implementation, feature delivery, REST APIs integration, Firebase services, subscriptions, release management, and long term production support**.
+⚡ Strong background in **mobile architecture, feature development, REST APIs, Firebase integration, subscriptions, performance optimization, release cycles, and long term product maintenance**.
 
-📱 Published **10+ production apps** on **Google Play and App Store**, serving users across **finance, trading, lifestyle, productivity, and utility domains**.
+📱 Delivered **10+ production apps** on **Google Play and App Store** across **finance, trading, lifestyle, productivity, and utility products**.
 
-💳 Hands on expertise in **RevenueCat, push notifications, Firebase, Google Play Console, App Store Connect, and third party SDK integrations**.
+💳 Hands on experience with **RevenueCat, push notifications, Firebase, Google Play Console, App Store Connect, third party SDKs, and monetization flows**.
 
-🤖 Experienced in modern development workflows using **ChatGPT, Codex, and Claude** for debugging, development acceleration, and technical problem solving.
+🤖 Comfortable with modern AI assisted development using **ChatGPT, Codex, and Claude** for debugging, faster delivery, and technical problem solving.
 
 🔁 Certified in **Make.com automation**, with practical experience in workflow automation and productivity systems.
 
 <p align="start">
-  <b>✨ I build mobile products that are fast, reliable, scalable, and production ready.</b>
+  <b>✨ I build mobile products that are scalable, maintainable, and production ready.</b>
 </p>
 
 ---
 
-### 💻 Tech Stack  
+### 💻 Tech Stack
 
-**🔤 Languages**  
+**🔤 Languages**
 
 <p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/> 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/> 
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/> 
-  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>  
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+  <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white" alt="Swift"/>
 </p>
 
-**📱 Frameworks & Platforms**  
+**📱 Mobile Frameworks & Platforms**
 
 <p>
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/> 
-  <img src="https://img.shields.io/badge/FlutterFlow-027DFD?style=for-the-badge&logo=flutter&logoColor=white" alt="FlutterFlow"/> 
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/> 
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
   <img src="https://img.shields.io/badge/Kotlin%20Multiplatform-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="KMP"/>
   <img src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white" alt="Jetpack Compose"/>
   <img src="https://img.shields.io/badge/SwiftUI-0A84FF?style=for-the-badge&logo=swift&logoColor=white" alt="SwiftUI"/>
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" alt="iOS"/>
 </p>
 
-**🌀 State Management**  
+**🌀 State Management & Architecture**
 
 <p>
-  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider"/> 
-  <img src="https://img.shields.io/badge/GetX-673AB7?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/> 
-  <img src="https://img.shields.io/badge/Riverpod-42A5F5?style=for-the-badge&logo=flutter&logoColor=white" alt="Riverpod"/>  
+  <img src="https://img.shields.io/badge/Provider-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Provider"/>
+  <img src="https://img.shields.io/badge/GetX-673AB7?style=for-the-badge&logo=flutter&logoColor=white" alt="GetX"/>
+  <img src="https://img.shields.io/badge/MVVM-1E293B?style=for-the-badge" alt="MVVM"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-0F766E?style=for-the-badge" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/Dependency%20Injection-2563EB?style=for-the-badge" alt="Dependency Injection"/>
 </p>
 
-**☁️ Backend & Databases**  
+**☁️ Backend, Data & Integrations**
 
 <p>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/> 
-  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" alt="Supabase"/>  
+  <img src="https://img.shields.io/badge/REST%20APIs-0EA5E9?style=for-the-badge" alt="REST APIs"/>
+  <img src="https://img.shields.io/badge/WebSockets-2563EB?style=for-the-badge" alt="WebSockets"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/SQFLite-16A34A?style=for-the-badge" alt="SQFLite"/>
+  <img src="https://img.shields.io/badge/Google%20Maps-34A853?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Google Maps"/>
 </p>
 
-**💰 Monetization & Engagement**  
+**💰 Monetization & Engagement**
 
 <p>
-  <img src="https://img.shields.io/badge/RevenueCat-FF6F00?style=for-the-badge&logo=cat&logoColor=white" alt="RevenueCat"/> 
-  <img src="https://img.shields.io/badge/Qonversion-2E7D32?style=for-the-badge&logo=google-pay&logoColor=white" alt="Qonversion"/> 
-  <img src="https://img.shields.io/badge/OneSignal-E4405F?style=for-the-badge&logo=onesignal&logoColor=white" alt="OneSignal"/> 
-  <img src="https://img.shields.io/badge/AdMob-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="AdMob"/>  
-
-**💳 Payment Gateways**  
-
-<p>
-  <img src="https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white" alt="Google Pay"/> 
-  <img src="https://img.shields.io/badge/Apple%20Pay-000000?style=for-the-badge&logo=applepay&logoColor=white" alt="Apple Pay"/> 
-  <img src="https://img.shields.io/badge/JazzCash-F58220?style=for-the-badge&logo=money&logoColor=white" alt="JazzCash"/> 
-  <img src="https://img.shields.io/badge/Stripe-008CDD?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>  
+  <img src="https://img.shields.io/badge/RevenueCat-FF6F00?style=for-the-badge" alt="RevenueCat"/>
+  <img src="https://img.shields.io/badge/OneSignal-E4405F?style=for-the-badge&logo=onesignal&logoColor=white" alt="OneSignal"/>
+  <img src="https://img.shields.io/badge/Google%20AdMob-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="AdMob"/>
+  <img src="https://img.shields.io/badge/In%20App%20Purchases-059669?style=for-the-badge" alt="IAP"/>
 </p>
 
-**🧰 Tools & DevOps**  
+**💳 Payment Gateways**
 
 <p>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/> 
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
-  <img src="https://img.shields.io/badge/GitLab-FCA121?style=for-the-badge&logo=gitlab&logoColor=white" alt="GitLab"/> 
-  <img src="https://img.shields.io/badge/Bitbucket-0052CC?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket"/> 
-</p> 
+  <img src="https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white" alt="Google Pay"/>
+  <img src="https://img.shields.io/badge/Apple%20Pay-000000?style=for-the-badge&logo=applepay&logoColor=white" alt="Apple Pay"/>
+  <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
+</p>
+
+**🧰 Tools, Release & DevOps**
+
+<p>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Google%20Play%20Console-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Play Console"/>
+  <img src="https://img.shields.io/badge/App%20Store%20Connect-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store Connect"/>
+  <img src="https://img.shields.io/badge/Shorebird-06B6D4?style=for-the-badge" alt="Shorebird"/>
+</p>
 
 **🤖 AI Assisted Development**
 
 <p>
-    <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
-    <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
-    <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge&logo=anthropic&logoColor=white" alt="Claude"/>
+  <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
+  <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
+  <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge" alt="Claude"/>
 </p>
 
-**📋 Project Management**  
+**📋 Workflow & Collaboration**
 
 <p>
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/> 
-  <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/> 
+  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"/>
+  <img src="https://img.shields.io/badge/Trello-026AA7?style=for-the-badge&logo=trello&logoColor=white" alt="Trello"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
 </p>
 
-**💬 Communication & Collaboration**  
+**🔁 Automation**
 
 <p>
-  <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white" alt="Slack"/> 
-  <img src="https://img.shields.io/badge/Skype-00AFF0?style=for-the-badge&logo=skype&logoColor=white" alt="Skype"/> 
-  <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white" alt="Zoom"/> 
-</p>
-
-**🎨 Design & Prototyping**  
-
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/> 
-</p>
-
-**🛠 IDEs**  
-
-<p>
-  <img src="https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" alt="Android Studio"/> 
-  <img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" alt="Xcode"/>  
-</p>
-
-**🚀 CI/CD & OTA Delivery**  
-
-<p>
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions"/> 
-  <img src="https://img.shields.io/badge/Shorebird-06B6D4?style=for-the-badge&logo=flutter&logoColor=white" alt="Shorebird"/>  
+  <img src="https://img.shields.io/badge/Make.com-6366F1?style=for-the-badge" alt="Make"/>
 </p>
 
 ---
@@ -314,53 +298,55 @@
 
 ---
 
-### 📌 Featured Repositories  
+### 📌 Featured Repositories
+
+<p align="center">
+  <a href="https://github.com/faisalarshadciit/GoogleAdMob-Flutter">
+    <img src="https://gh-card.dev/repos/faisalarshadciit/GoogleAdMob-Flutter.svg" alt="Google AdMob Flutter repo card" />
+  </a>
+  <a href="https://github.com/faisalarshadciit/WeatherApp-Flutter">
+    <img src="https://gh-card.dev/repos/faisalarshadciit/WeatherApp-Flutter.svg" alt="WeatherApp Flutter repo card" />
+  </a>
+</p>
+
 <p align="center">
   <a href="https://github.com/faisalarshadciit/QRCode-Generator-Android-App">
     <img src="https://gh-card.dev/repos/faisalarshadciit/QRCode-Generator-Android-App.svg" alt="QRCode Generator Android App repo card" />
-  </a>
-  <a href="https://github.com/faisalarshadciit/Flutter-FoodDelivery-App-UI">
-    <img src="https://gh-card.dev/repos/faisalarshadciit/Flutter-FoodDelivery-App-UI.svg" alt="Flutter Food Delivery UI repo card" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://github.com/faisalarshadciit/WeatherApp-Flutter">
-    <img src="https://gh-card.dev/repos/faisalarshadciit/WeatherApp-Flutter.svg" alt="WeatherApp Flutter repo card" />
   </a>
   <a href="https://github.com/faisalarshadciit/LinkedIn-Post-Fetcher">
     <img src="https://gh-card.dev/repos/faisalarshadciit/LinkedIn-Post-Fetcher.svg" alt="LinkedIn Post Fetcher repo card" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://github.com/faisalarshadciit/EventBooking-UI-Flutter">
     <img src="https://gh-card.dev/repos/faisalarshadciit/EventBooking-UI-Flutter.svg" alt="EventBooking UI Flutter repo card" />
   </a>
-  <a href="https://github.com/faisalarshadciit/GoogleAdMob-Flutter">
-    <img src="https://gh-card.dev/repos/faisalarshadciit/GoogleAdMob-Flutter.svg" alt="Google AdMob Flutter repo card" />
+  <a href="https://github.com/faisalarshadciit/Flutter-FoodDelivery-App-UI">
+    <img src="https://gh-card.dev/repos/faisalarshadciit/Flutter-FoodDelivery-App-UI.svg" alt="Flutter Food Delivery UI repo card" />
   </a>
 </p>
 
 ---
 
-### 📊 GitHub Stats  
+### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisalarshadciit&theme=github_dark" alt="GitHub Stats"/>
-  <img src="https://streak-stats.demolab.com?user=faisalarshadciit&theme=react&hide_border=false" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=faisalarshadciit&theme=github-dark&hide_border=true" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisalarshadciit&theme=github_dark" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisalarshadciit&theme=github_dark" alt="Top Languages by Repo"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=faisalarshadciit&theme=github_dark" alt="Top Languages by Commits"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisalarshadciit&theme=github_dark" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisalarshadciit&theme=github_dark" alt="GitHub Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=faisalarshadciit&theme=github_dark"/>
 </p>
 
 ---
 
-### 🏆 Certifications  
+### 🏆 Certifications
 
 <p align="center">
   <a href="https://www.credly.com/badges/88b847de-fd89-4629-ae66-3fea5d514920/linked_in_profile" target="_blank">
@@ -372,7 +358,11 @@
 </p>
 
 <p align="center">
-  <em>✅ Certified in <b>workflow automation</b>, <b>control flow</b>, and <b>data integration</b> with Make.com.</em>
+  <em>✅ Certified in <b>workflow automation</b>, <b>control flow</b>, <b>data mapping</b>, and <b>integration design</b> using Make.com.</em>
+</p>
+
+<p align="center">
+  <em>🔁 Practical experience building automation workflows to improve productivity and reduce manual operations.</em>
 </p>
 
 ---
