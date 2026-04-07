@@ -405,6 +405,12 @@
 
 ⭐⭐⭐⭐⭐ **5.0 Rated**
 
+> I am good to work with Faisal Arshad. He is very good knowledge and experience.
+
+<img src="assets/reviews/upwork3.png" width="650"/>
+
+⭐⭐⭐⭐⭐ **5.0 Rated**
+
 > Mr. Arshad did the required job perfectly. Code is clean, communication with him was good. I enjoyed working with him, he will be my first choice in the coming projects.
 
 <img src="assets/reviews/upwork4.png" width="650"/>
