@@ -387,6 +387,62 @@
 
 ---
 
+## ⭐ Client Reviews & Ratings
+
+### <img src="https://cdn.simpleicons.org/upwork/6FDA44" width="18"/> Upwork
+
+⭐⭐⭐⭐⭐ **5.0 Rated**
+
+> He is a strong developer who completes things on time, a strong experienced flutter developer.
+
+<img src="assets/reviews/upwork1.png" width="650"/>
+
+⭐⭐⭐⭐⭐ **5.0 Rated**
+
+> Faisal was very good technically strong and delivered things on time. Good experience with flutter and mobile app development.
+
+<img src="assets/reviews/upwork2.png" width="650"/>
+
+⭐⭐⭐⭐⭐ **5.0 Rated**
+
+> Mr. Arshad did the required job perfectly. Code is clean, communication with him was good. I enjoyed working with him, he will be my first choice in the coming projects.
+
+<img src="assets/reviews/upwork4.png" width="650"/>
+
+---
+
+### <img src="https://cdn.simpleicons.org/fiverr/1DBF73" width="18"/> Fiverr
+
+⭐⭐⭐⭐⭐ **5.0 Rated**
+
+> Outstanding experience. He solved all my problems on my app.
+
+<img src="assets/reviews/fiverr1.png" width="650"/>
+
+⭐⭐⭐⭐⭐ **5.0 Rated**
+
+> Very efficient!
+
+<img src="assets/reviews/fiverr2.png" width="650"/>
+
+---
+
+### <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" width="18"/> LinkedIn
+
+⭐⭐⭐⭐⭐ **Professional Recommendation**
+
+> Collaborating with Faisal Arshad was a game changer. Their expertise in mobile app development and attention to detail elevated our project.
+
+<img src="assets/reviews/linkedin1.png" width="650"/>
+
+⭐⭐⭐⭐⭐ **Professional Recommendation**
+
+> Faisal is best android developer. He is well organized, diligent, and a fast learner.
+
+<img src="assets/reviews/linkedin2.png" width="650"/>
+
+---
+
 ### 📌 Featured Repositories
 
 <p align="center">
