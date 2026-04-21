@@ -365,28 +365,207 @@
 
 ### 🔒 Client / Private Projects  
 
+#### Commerce & Marketplace
+
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
-      <img src="https://play-lh.googleusercontent.com/4y3dx5CqAZWKMp7TSbKQ3-zvtdWSUq8w8bmOW9afGx9PNX1l5DwSG5UR2rlj6lQ_LFw=w480-h960-rw" width="64" alt="LylaCart"/><br/>
-      <strong>LylaCart (Shopping App)</strong><br/>
-      <em>(Online Shopping)</em>
+      <img src="assets/private-projects/lylacart-shopping.png" width="64" alt="LylaCart Shopping Suite"/><br/>
+      <strong>LylaCart Shopping Suite</strong><br/>
+      <em>Regional E-Commerce</em><br/>
+      <sub>Current and legacy LylaCart shopping builds for localized catalog and checkout flows.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://play-lh.googleusercontent.com/CR17mbKGemglRFXxab2C8oCr-BYRwpWboXnpW0mwsDJ-8qg2-zcPTYZ3z2rc6Eji7uk=w480-h960-rw" width="64" alt="Aajizz"/><br/>
-      <strong>Aajizz (Donation App)</strong><br/>
-      <em>(Charity / Donations)</em>
+      <img src="assets/private-projects/furniture-store.png" width="64" alt="Furniture Store Android App"/><br/>
+      <strong>Furniture Store Android App</strong><br/>
+      <em>Furniture E-Commerce</em><br/>
+      <sub>Catalog, favourites, cart, and order history.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://play-lh.googleusercontent.com/btIgzqAzlb3OYTag94wYOyO-exTx4qkGZFfwopOydrJBWn4YbgdpNb2otjmBSRsgTA0=w240-h480-rw" width="64" alt="BusiBeez"/><br/>
-      <strong>BusiBeez</strong><br/>
-      <em>(Business / CRM Platform)</em>
+      <img src="assets/private-projects/housing-organiser.png" width="64" alt="Housing Organiser"/><br/>
+      <strong>Housing Organiser</strong><br/>
+      <em>Real Estate Marketplace</em><br/>
+      <sub>Property listing flows for selling and renting.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/private-projects/private-elderly-care.jpg" width="64" alt="Private Elderly Care"/><br/>
+      <strong>Private Elderly Care</strong><br/>
+      <em>Caregiving / Premium Marketplace</em><br/>
+      <sub>Caregiving, premium video, and marketplace features.</sub>
+    </td>
+    <td align="center">
+      <img src="assets/private-projects/virtual-garage.png" width="64" alt="Virtual Garage"/><br/>
+      <strong>Virtual Garage</strong><br/>
+      <em>Driver / Tracking App</em><br/>
+      <sub>Driver auth, OTP, and location tracking.</sub>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+#### Business & Admin Platforms
+
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/busibeez.png" width="64" alt="BusiBeez Platform"/><br/>
+      <strong>BusiBeez Platform</strong><br/>
+      <em>Business Networking / Deals</em><br/>
+      <sub>Main and internal BB mobile builds for ads, messaging, promotions, and deal workflows.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/client-book-up.png" width="64" alt="Client Book-Up Android"/><br/>
+      <strong>Client Book-Up Android</strong><br/>
+      <em>Booking / Service Marketplace</em><br/>
+      <sub>Appointments, chat, maps, and payments.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/aajizz-admin.png" width="64" alt="Aajizz Admin App"/><br/>
+      <strong>Aajizz Admin App</strong><br/>
+      <em>Admin / KYC & Campaign Ops</em><br/>
+      <sub>KYC, campaigns, users, and withdrawals.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/private-projects/lylacart-admin.png" width="64" alt="LylaCart Admin Suite"/><br/>
+      <strong>LylaCart Admin Suite</strong><br/>
+      <em>Admin / Commerce Ops</em><br/>
+      <sub>Current and legacy LylaCart admin dashboards for products, orders, ads, and analytics.</sub>
+    </td>
+    <td align="center">
+      <img src="assets/private-projects/furniture-admin.jpg" width="64" alt="Furniture Store Android Admin"/><br/>
+      <strong>Furniture Store Android Admin</strong><br/>
+      <em>Admin / Catalog Management</em><br/>
+      <sub>Product uploads and Firebase catalog control.</sub>
+    </td>
+    <td align="center">
+      <img src="assets/private-projects/epp-film.png" width="64" alt="EPP Film Production App"/><br/>
+      <strong>EPP Film Production App</strong><br/>
+      <em>Internal Content Management</em><br/>
+      <sub>Catalogs, uploads, search, and exports.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/private-projects/webate-admin.png" width="64" alt="WEBATE Admin App"/><br/>
+      <strong>WEBATE Admin App</strong><br/>
+      <em>Hospitality Admin / Hotel Ops</em><br/>
+      <sub>Hotels, menus, offers, and events.</sub>
+    </td>
+    <td align="center">
+      <img src="assets/private-projects/marsol.png" width="64" alt="Fawry Delivery Platform"/><br/>
+      <strong>Fawry Delivery Platform</strong><br/>
+      <em>Commerce / Delivery Platform</em><br/>
+      <sub>Modular user, delegate, store, chat, and order flows.</sub>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+#### Finance, Utility & Productivity
+
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/aajizz-mobile.png" width="64" alt="Aajizz Mobile App"/><br/>
+      <strong>Aajizz Mobile App</strong><br/>
+      <em>Donations / QR E-Stamps</em><br/>
+      <sub>Wallet donations with QR e-stamps.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/eatwell.png" width="64" alt="EatWell App"/><br/>
+      <strong>EatWell App</strong><br/>
+      <em>Nutrition / Meal Planning</em><br/>
+      <sub>Diet onboarding and meal plan prototype.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/qr-code-generator.webp" width="64" alt="QR Code Generator Android App"/><br/>
+      <strong>QR Code Generator Android App</strong><br/>
+      <em>Utility / QR + WebView</em><br/>
+      <sub>Text-to-QR generation with fallback WebView.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/private-projects/linkedin-post-fetcher.png" width="64" alt="LinkedIn Post Fetcher"/><br/>
+      <strong>LinkedIn Post Fetcher</strong><br/>
+      <em>Utility / Content Extraction</em><br/>
+      <sub>Fetches LinkedIn post text quickly.</sub>
+    </td>
+    <td align="center">
+      <img src="assets/private-projects/faisal-upwork-assistant.png" width="64" alt="Faisal Upwork Assistant"/><br/>
+      <strong>Faisal Upwork Assistant</strong><br/>
+      <em>Browser Extension / Upwork</em><br/>
+      <sub>Proposal helper for a single profile.</sub>
+    </td>
+    <td align="center">
+      <img src="assets/private-projects/upwork-job-insights.png" width="64" alt="Upwork Job Insights Team Extension"/><br/>
+      <strong>Upwork Job Insights Team Extension</strong><br/>
+      <em>Browser Extension / Shared Workflow</em><br/>
+      <sub>Scoring, alerts, and AI proposal support.</sub>
     </td>
   </tr>
 </table>
 
----
+#### Media, Community & Discovery
 
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/boom-entertainment.png" width="64" alt="Boom Entertainment"/><br/>
+      <strong>Boom Entertainment</strong><br/>
+      <em>OTT Streaming / Live TV</em><br/>
+      <sub>Movies, live TV, downloads, and subscriptions.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/hemisferio.png" width="64" alt="Hemisferio Android App"/><br/>
+      <strong>Hemisferio Android App</strong><br/>
+      <em>Community / Resident Services</em><br/>
+      <sub>Resident messaging and society services.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/webate-android.png" width="64" alt="WEBATE Android App"/><br/>
+      <strong>WEBATE Android App</strong><br/>
+      <em>Hospitality / Restaurant Discovery</em><br/>
+      <sub>Restaurants, offers, events, and QR redemption.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/private-projects/sports-android.png" width="64" alt="Sports Android App"/><br/>
+      <strong>Sports Android App</strong><br/>
+      <em>Sports / Cricket Guide</em><br/>
+      <sub>IPL guides, stats, and tables.</sub>
+    </td>
+    <td align="center">
+      <img src="assets/private-projects/man-overboard.png" width="64" alt="Man Overboard Android App"/><br/>
+      <strong>Man Overboard Android App</strong><br/>
+      <em>Safety / Rescue Reporting</em><br/>
+      <sub>Maps, weather, and rescue reporting.</sub>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+#### Education & Assessment
+
+<table width="100%" style="table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/exam-hub.png" width="64" alt="Exam Hub Online Assessment"/><br/>
+      <strong>Exam Hub Online Assessment</strong><br/>
+      <em>Education / Exams</em><br/>
+      <sub>Admin, teacher, and student exam flows.</sub>
+    </td>
+    <td align="center" width="33%"></td>
+    <td align="center" width="33%"></td>
+  </tr>
+</table>
+
+---
 ## ⭐ Client Reviews & Ratings
 
 ### <img src="https://cdn.simpleicons.org/upwork/6FDA44" width="18"/> Upwork
@@ -530,3 +709,4 @@
 <p align="center">
   <em>Building mobile products that scale, perform, and last.</em>
 </p>
+
