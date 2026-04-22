@@ -365,23 +365,158 @@
 
 ### 🔒 Client / Private Projects  
 
-<table width="100%" style="table-layout: fixed;">
+#### Commerce, Property, Booking & Delivery
+
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
-      <img src="https://play-lh.googleusercontent.com/4y3dx5CqAZWKMp7TSbKQ3-zvtdWSUq8w8bmOW9afGx9PNX1l5DwSG5UR2rlj6lQ_LFw=w480-h960-rw" width="64" alt="LylaCart"/><br/>
-      <strong>LylaCart (Shopping App)</strong><br/>
-      <em>(Online Shopping)</em>
+      <img src="assets/private-projects/lylacart-shopping.png" width="64" alt="LylaCart"/><br/>
+      <strong>LylaCart</strong><br/>
+      <em>Regional Shopping</em><br/>
+      <sub>Multi-country shopping app with offers, carts, checkout, and order tracking.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://play-lh.googleusercontent.com/CR17mbKGemglRFXxab2C8oCr-BYRwpWboXnpW0mwsDJ-8qg2-zcPTYZ3z2rc6Eji7uk=w480-h960-rw" width="64" alt="Aajizz"/><br/>
-      <strong>Aajizz (Donation App)</strong><br/>
-      <em>(Charity / Donations)</em>
+      <img src="assets/private-projects/furniture-store.png" width="64" alt="Furniture Store"/><br/>
+      <strong>Furniture Store</strong><br/>
+      <em>Furniture Shopping</em><br/>
+      <sub>Browse furniture, save favourites, manage cart items, and place orders.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="https://play-lh.googleusercontent.com/btIgzqAzlb3OYTag94wYOyO-exTx4qkGZFfwopOydrJBWn4YbgdpNb2otjmBSRsgTA0=w240-h480-rw" width="64" alt="BusiBeez"/><br/>
+      <img src="assets/private-projects/housing-organiser.png" width="64" alt="Housing Organiser"/><br/>
+      <strong>Housing Organiser</strong><br/>
+      <em>Property Finder</em><br/>
+      <sub>Post and discover properties for selling, buying, and renting.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/private-projects/client-book-up.png" width="64" alt="Beauty & Service Booking"/><br/>
+      <strong>Beauty & Service Booking</strong><br/>
+      <em>Salon & Home Appointments</em><br/>
+      <sub>Book salon, spa, barber, and at-home services with chat, maps, and reviews.</sub>
+    </td>
+    <td align="center">
+      <img src="assets/private-projects/marsol.png" width="64" alt="Fawry Delivery"/><br/>
+      <strong>Fawry Delivery</strong><br/>
+      <em>Order Delivery</em><br/>
+      <sub>Customer, courier, and store flows for placing, assigning, and delivering orders.</sub>
+    </td>
+    <td align="center"></td>
+  </tr>
+</table>
+
+#### Business, Networking & Admin
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/busibeez.png" width="64" alt="BusiBeez"/><br/>
       <strong>BusiBeez</strong><br/>
-      <em>(Business / CRM Platform)</em>
+      <em>Business Deals & Networking</em><br/>
+      <sub>Business discovery app with ads, promotions, messaging, and deal workflows.</sub>
     </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/aajizz-admin.png" width="64" alt="Aajizz Admin"/><br/>
+      <strong>Aajizz Admin</strong><br/>
+      <em>Donation Admin</em><br/>
+      <sub>Manage KYC, campaigns, users, finance activity, and withdrawal approvals.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/lylacart-admin.png" width="64" alt="LylaCart Admin"/><br/>
+      <strong>LylaCart Admin</strong><br/>
+      <em>Retail Admin</em><br/>
+      <sub>Handle products, categories, offers, orders, notifications, and analytics.</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="assets/private-projects/furniture-admin.png" width="64" alt="Furniture Store Admin"/><br/>
+      <strong>Furniture Store Admin</strong><br/>
+      <em>Catalog Admin</em><br/>
+      <sub>Upload products, manage images, and maintain the shared furniture catalog.</sub>
+    </td>
+    <td align="center">
+      <img src="assets/private-projects/epp-film.png" width="64" alt="EPP Film Studio"/><br/>
+      <strong>EPP Film Studio</strong><br/>
+      <em>Production Asset Manager</em><br/>
+      <sub>Manage film-production items, uploads, search, and export-ready records.</sub>
+    </td>
+    <td align="center">
+      <img src="assets/private-projects/webate-admin.png" width="64" alt="WEBATE Admin"/><br/>
+      <strong>WEBATE Admin</strong><br/>
+      <em>Hotel Admin</em><br/>
+      <sub>Manage hotels, categories, menus, offers, events, and hotel-side operations.</sub>
+    </td>
+  </tr>
+</table>
+
+#### Care, Wellness & Donations
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/private-elderly-care.png" width="64" alt="Private Elderly Care"/><br/>
+      <strong>Private Elderly Care</strong><br/>
+      <em>Caregiver Support</em><br/>
+      <sub>Caregiver and employer onboarding with support tools, premium content, and service flows.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/aajizz-mobile.png" width="64" alt="Aajizz"/><br/>
+      <strong>Aajizz</strong><br/>
+      <em>Donations & E-Stamps</em><br/>
+      <sub>Donate through wallet funding, QR-based e-stamps, and transparent donation history.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/eatwell.png" width="64" alt="EatWell"/><br/>
+      <strong>EatWell</strong><br/>
+      <em>Meal Plans & Nutrition</em><br/>
+      <sub>Personalized diet onboarding, meal planning, and food-service role workflows.</sub>
+    </td>
+  </tr>
+</table>
+
+#### Community, Dining & Entertainment
+
+<table style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/webate-android.png" width="64" alt="WEBATE"/><br/>
+      <strong>WEBATE</strong><br/>
+      <em>Restaurant Offers & Events</em><br/>
+      <sub>Discover restaurants, browse menus, redeem offers, and explore event listings.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/hemisferio.png" width="64" alt="Hemisferio"/><br/>
+      <strong>Hemisferio</strong><br/>
+      <em>Resident Community</em><br/>
+      <sub>Messaging, maintenance, buy-and-sell, notice boards, and resident services.</sub>
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/private-projects/boom-entertainment.png" width="64" alt="Boom Entertainment"/><br/>
+      <strong>Boom Entertainment</strong><br/>
+      <em>Movies & Live TV</em><br/>
+      <sub>Stream movies, originals, live TV, downloads, and subscription content.</sub>
+    </td>
+  </tr>
+</table>
+
+#### Safety & Sports
+
+<table width="100%" style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%" style="width: 33.33%;">
+      <img src="assets/private-projects/man-overboard.png" width="64" alt="Man Overboard"/><br/>
+      <strong>Man Overboard</strong><br/>
+      <em>Emergency Rescue</em><br/>
+      <sub>Report overboard emergencies with maps, weather visibility, and rescue coordination.</sub>
+    </td>
+    <td align="center" width="33%" style="width: 33.33%;">
+      <img src="assets/private-projects/sports-android.png" width="64" alt="IPL Sports Guide"/><br/>
+      <strong>IPL Sports Guide</strong><br/>
+      <em>Cricket Guides & Stats</em><br/>
+      <sub>IPL guides, points tables, league references, and cricket statistics.</sub>
+    </td>
+    <td align="center" width="33%" style="width: 33.33%;"><div>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;</div></td>
   </tr>
 </table>
 
@@ -530,3 +665,7 @@
 <p align="center">
   <em>Building mobile products that scale, perform, and last.</em>
 </p>
+
+
+
+
