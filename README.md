@@ -81,16 +81,6 @@
 
 ---
 
-### 🧠 Engineering Highlights
-
-📱 **Cross Platform & Native Apps**  
-🏗 **Scalable Architecture**  
-🔗 **Advanced Integrations**  
-🚀 **Production Releases**  
-🤝 **Commercial Delivery**
-
----
-
 ### 💻 Tech Stack
 
 **🔤 Languages**
@@ -182,38 +172,6 @@
 <p>
   <img src="https://img.shields.io/badge/Make.com-6366F1?style=for-the-badge" alt="Make"/>
 </p>
-
----
-
-### 🚀 What I Can Build
-
-📱 **Full Mobile Apps**  
-🔧 **App Upgrades & Refactoring**  
-☁️ **Backend & Firebase Integration**  
-💳 **Subscriptions & Payments**  
-⚡ **Realtime Features**  
-🚀 **Store Releases & Optimization**
-
----
-
-### 🎯 What Clients Usually Hire Me For
-
-🚀 **Product Launches**  
-🛠 **Codebase Upgrades**  
-🔥 **Complex Bug Fixing**  
-🔗 **System Integrations**  
-📈 **Growth Ready Releases**
-
----
-
-### 🌍 Product Domains
-
-📈 **Finance & Trading**  
-🛒 **Commerce & Retail**  
-🧾 **Utilities & Everyday Apps**  
-❤️ **Charity & Social Impact**  
-📊 **Productivity & Tracking Tools**  
-🏢 **Business Platforms**
 
 ---
 
