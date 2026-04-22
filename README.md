@@ -503,6 +503,11 @@
 #### Safety & Sports
 
 <table style="width: 100%; table-layout: fixed;">
+  <colgroup>
+    <col style="width: 33.33%;">
+    <col style="width: 33.33%;">
+    <col style="width: 33.33%;">
+  </colgroup>
   <tr>
     <td align="center" width="33%">
       <img src="assets/private-projects/man-overboard.png" width="64" alt="Man Overboard"/><br/>
