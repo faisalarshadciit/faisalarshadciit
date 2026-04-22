@@ -365,92 +365,92 @@
 
 ### 🔒 Client / Private Projects  
 
-#### Commerce, Booking & Delivery
+#### Commerce, Property, Booking & Delivery
 
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
       <img src="assets/private-projects/lylacart-shopping.png" width="64" alt="LylaCart"/><br/>
       <strong>LylaCart</strong><br/>
-      <em>Localized Shopping</em><br/>
-      <sub>Regional shopping flow with product discovery, offers, cart, and checkout.</sub>
+      <em>Regional Shopping</em><br/>
+      <sub>Multi-country shopping app with offers, carts, checkout, and order tracking.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/furniture-store.png" width="64" alt="Furniture Store"/><br/>
       <strong>Furniture Store</strong><br/>
-      <em>Furniture Retail</em><br/>
-      <sub>Browse furniture, save favourites, manage cart items, and track orders.</sub>
+      <em>Furniture Shopping</em><br/>
+      <sub>Browse furniture, save favourites, manage cart items, and place orders.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/housing-organiser.png" width="64" alt="Housing Organiser"/><br/>
       <strong>Housing Organiser</strong><br/>
-      <em>Property Listings</em><br/>
-      <sub>Find, post, and explore properties for buying, selling, and renting.</sub>
+      <em>Property Finder</em><br/>
+      <sub>Post and discover properties for selling, buying, and renting.</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/private-projects/client-book-up.png" width="64" alt="BookUp Services"/><br/>
-      <strong>BookUp Services</strong><br/>
-      <em>Service Booking</em><br/>
-      <sub>Book local services with appointments, chat, maps, and payment support.</sub>
+      <img src="assets/private-projects/client-book-up.png" width="64" alt="Beauty & Service Booking"/><br/>
+      <strong>Beauty & Service Booking</strong><br/>
+      <em>Salon & Home Appointments</em><br/>
+      <sub>Book salon, spa, barber, and at-home services with chat, maps, and reviews.</sub>
     </td>
     <td align="center">
       <img src="assets/private-projects/marsol.png" width="64" alt="Fawry Delivery"/><br/>
       <strong>Fawry Delivery</strong><br/>
-      <em>On-Demand Delivery</em><br/>
-      <sub>Coordinate customer orders, courier delivery, and store-side order handling.</sub>
+      <em>Order Delivery</em><br/>
+      <sub>Customer, courier, and store flows for placing, assigning, and delivering orders.</sub>
     </td>
     <td align="center"></td>
   </tr>
 </table>
 
-#### Business, Hospitality & Admin Tools
+#### Business, Networking & Admin
 
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
       <img src="assets/private-projects/busibeez.png" width="64" alt="BusiBeez"/><br/>
       <strong>BusiBeez</strong><br/>
-      <em>Business Networking</em><br/>
-      <sub>Connect businesses through ads, promotions, messaging, and deal workflows.</sub>
+      <em>Business Deals & Networking</em><br/>
+      <sub>Business discovery app with ads, promotions, messaging, and deal workflows.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/aajizz-admin.png" width="64" alt="Aajizz Admin"/><br/>
       <strong>Aajizz Admin</strong><br/>
-      <em>Donation Operations</em><br/>
-      <sub>Review KYC, manage campaigns, handle users, and process withdrawals.</sub>
+      <em>Donation Admin</em><br/>
+      <sub>Manage KYC, campaigns, users, finance activity, and withdrawal approvals.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/lylacart-admin.png" width="64" alt="LylaCart Admin"/><br/>
       <strong>LylaCart Admin</strong><br/>
-      <em>Commerce Operations</em><br/>
-      <sub>Manage products, orders, promotions, notifications, and analytics for LylaCart.</sub>
+      <em>Retail Admin</em><br/>
+      <sub>Handle products, categories, offers, orders, notifications, and analytics.</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="assets/private-projects/furniture-admin.jpg" width="64" alt="Furniture Store Admin"/><br/>
       <strong>Furniture Store Admin</strong><br/>
-      <em>Catalog Management</em><br/>
-      <sub>Upload product listings, manage images, and maintain the store catalog.</sub>
+      <em>Catalog Admin</em><br/>
+      <sub>Upload products, manage images, and maintain the shared furniture catalog.</sub>
     </td>
     <td align="center">
       <img src="assets/private-projects/epp-film.png" width="64" alt="EPP Film Studio"/><br/>
       <strong>EPP Film Studio</strong><br/>
-      <em>Production Inventory</em><br/>
-      <sub>Organize production items, upload media, search records, and export reports.</sub>
+      <em>Production Asset Manager</em><br/>
+      <sub>Manage film-production items, uploads, search, and export-ready records.</sub>
     </td>
     <td align="center">
       <img src="assets/private-projects/webate-admin.png" width="64" alt="WEBATE Admin"/><br/>
       <strong>WEBATE Admin</strong><br/>
-      <em>Hospitality Operations</em><br/>
-      <sub>Manage hotels, menus, offers, events, and daily hospitality workflows.</sub>
+      <em>Hotel Admin</em><br/>
+      <sub>Manage hotels, categories, menus, offers, events, and hotel-side operations.</sub>
     </td>
   </tr>
 </table>
 
-#### Care, Wellness & Giving
+#### Care, Wellness & Donations
 
 <table width="100%" style="table-layout: fixed;">
   <tr>
@@ -458,19 +458,19 @@
       <img src="assets/private-projects/private-elderly-care.jpg" width="64" alt="Private Elderly Care"/><br/>
       <strong>Private Elderly Care</strong><br/>
       <em>Caregiver Support</em><br/>
-      <sub>Onboard caregivers and employers with support tools, premium content, and care services.</sub>
+      <sub>Caregiver and employer onboarding with support tools, premium content, and service flows.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/aajizz-mobile.png" width="64" alt="Aajizz"/><br/>
       <strong>Aajizz</strong><br/>
-      <em>Digital Giving</em><br/>
-      <sub>Support donation journeys with wallet funding, QR e-stamps, and guided giving.</sub>
+      <em>Donations & E-Stamps</em><br/>
+      <sub>Donate through wallet funding, QR-based e-stamps, and transparent donation history.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/eatwell.png" width="64" alt="EatWell"/><br/>
       <strong>EatWell</strong><br/>
-      <em>Nutrition Planning</em><br/>
-      <sub>Build personalized diet plans, meal journeys, and role-based food operations.</sub>
+      <em>Meal Plans & Nutrition</em><br/>
+      <sub>Personalized diet onboarding, meal planning, and food-service role workflows.</sub>
     </td>
   </tr>
 </table>
@@ -482,20 +482,20 @@
     <td align="center" width="33%">
       <img src="assets/private-projects/webate-android.png" width="64" alt="WEBATE"/><br/>
       <strong>WEBATE</strong><br/>
-      <em>Dining Discovery</em><br/>
-      <sub>Explore restaurants, menus, offers, events, and QR-based redemption experiences.</sub>
+      <em>Restaurant Offers & Events</em><br/>
+      <sub>Discover restaurants, browse menus, redeem offers, and explore event listings.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/hemisferio.png" width="64" alt="Hemisferio"/><br/>
       <strong>Hemisferio</strong><br/>
-      <em>Community Living</em><br/>
-      <sub>Support residents with messaging, maintenance requests, posts, and local services.</sub>
+      <em>Resident Community</em><br/>
+      <sub>Messaging, maintenance, buy-and-sell, notice boards, and resident services.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/boom-entertainment.png" width="64" alt="Boom Entertainment"/><br/>
       <strong>Boom Entertainment</strong><br/>
-      <em>Streaming & Live TV</em><br/>
-      <sub>Watch movies, live TV, downloads, and subscription-based entertainment content.</sub>
+      <em>Movies & Live TV</em><br/>
+      <sub>Stream movies, originals, live TV, downloads, and subscription content.</sub>
     </td>
   </tr>
 </table>
@@ -507,14 +507,14 @@
     <td align="center" width="33%">
       <img src="assets/private-projects/man-overboard.png" width="64" alt="Man Overboard"/><br/>
       <strong>Man Overboard</strong><br/>
-      <em>Maritime Emergency Response</em><br/>
-      <sub>Report overboard incidents with maps, weather visibility, and rescue coordination.</sub>
+      <em>Emergency Rescue</em><br/>
+      <sub>Report overboard emergencies with maps, weather visibility, and rescue coordination.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/sports-android.png" width="64" alt="IPL Sports Guide"/><br/>
       <strong>IPL Sports Guide</strong><br/>
-      <em>Cricket Reference</em><br/>
-      <sub>Follow IPL guides, stats, points tables, and league reference content.</sub>
+      <em>Cricket Guides & Stats</em><br/>
+      <sub>IPL guides, points tables, league references, and cricket statistics.</sub>
     </td>
     <td align="center" width="33%"></td>
   </tr>
@@ -663,6 +663,7 @@
 <p align="center">
   <em>Building mobile products that scale, perform, and last.</em>
 </p>
+
 
 
 
