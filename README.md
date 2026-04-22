@@ -367,7 +367,7 @@
 
 #### Commerce, Property, Booking & Delivery
 
-<table width="100%" style="table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
       <img src="assets/private-projects/lylacart-shopping.png" width="64" alt="LylaCart"/><br/>
@@ -407,7 +407,7 @@
 
 #### Business, Networking & Admin
 
-<table width="100%" style="table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
       <img src="assets/private-projects/busibeez.png" width="64" alt="BusiBeez"/><br/>
@@ -452,7 +452,7 @@
 
 #### Care, Wellness & Donations
 
-<table width="100%" style="table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
       <img src="assets/private-projects/private-elderly-care.png" width="64" alt="Private Elderly Care"/><br/>
@@ -477,7 +477,7 @@
 
 #### Community, Dining & Entertainment
 
-<table width="100%" style="table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
       <img src="assets/private-projects/webate-android.png" width="64" alt="WEBATE"/><br/>
@@ -502,7 +502,7 @@
 
 #### Safety & Sports
 
-<table width="100%" style="table-layout: fixed;">
+<table style="width: 100%; table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
       <img src="assets/private-projects/man-overboard.png" width="64" alt="Man Overboard"/><br/>
