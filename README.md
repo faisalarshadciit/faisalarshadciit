@@ -502,26 +502,21 @@
 
 #### Safety & Sports
 
-<table style="width: 100%; table-layout: fixed;">
-  <colgroup>
-    <col style="width: 33.33%;">
-    <col style="width: 33.33%;">
-    <col style="width: 33.33%;">
-  </colgroup>
+<table width="100%" style="width: 100%; table-layout: fixed;">
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="width: 33.33%;">
       <img src="assets/private-projects/man-overboard.png" width="64" alt="Man Overboard"/><br/>
       <strong>Man Overboard</strong><br/>
       <em>Emergency Rescue</em><br/>
       <sub>Report overboard emergencies with maps, weather visibility, and rescue coordination.</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="33%" style="width: 33.33%;">
       <img src="assets/private-projects/sports-android.png" width="64" alt="IPL Sports Guide"/><br/>
       <strong>IPL Sports Guide</strong><br/>
       <em>Cricket Guides & Stats</em><br/>
       <sub>IPL guides, points tables, league references, and cricket statistics.</sub>
     </td>
-    <td align="center" width="33%">&nbsp;</td>
+    <td align="center" width="33%" style="width: 33.33%;"><div>&nbsp;<br/>&nbsp;<br/>&nbsp;<br/>&nbsp;</div></td>
   </tr>
 </table>
 
