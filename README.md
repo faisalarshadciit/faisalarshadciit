@@ -430,7 +430,7 @@
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/private-projects/furniture-admin.jpg" width="64" alt="Furniture Store Admin"/><br/>
+      <img src="assets/private-projects/furniture-admin.png" width="64" alt="Furniture Store Admin"/><br/>
       <strong>Furniture Store Admin</strong><br/>
       <em>Catalog Admin</em><br/>
       <sub>Upload products, manage images, and maintain the shared furniture catalog.</sub>
@@ -455,7 +455,7 @@
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
-      <img src="assets/private-projects/private-elderly-care.jpg" width="64" alt="Private Elderly Care"/><br/>
+      <img src="assets/private-projects/private-elderly-care.png" width="64" alt="Private Elderly Care"/><br/>
       <strong>Private Elderly Care</strong><br/>
       <em>Caregiver Support</em><br/>
       <sub>Caregiver and employer onboarding with support tools, premium content, and service flows.</sub>
