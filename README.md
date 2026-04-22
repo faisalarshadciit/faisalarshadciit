@@ -3,13 +3,8 @@
   <img src="https://capsule-render.vercel.app/api?type=wave&color=0:0ea5e9,50:22c55e,100:9333ea&height=280&section=header&text=Faisal%20Arshad&fontSize=48&fontColor=ffffff&fontAlignY=30&desc=Senior%20Mobile%20App%20Engineer%20%C2%B7%205%2B%20Years%20%C2%B7%2010%2B%20Published%20Apps&descSize=20&descAlign=50&descAlignY=50&descColor=ffffff" />
 </p>
 
-<!-- Animated typing tagline -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=20&duration=2800&pause=900&center=true&vCenter=true&width=860&lines=Flutter+%7C+Kotlin+Multiplatform+%7C+Android+%7C+iOS;Architecture+%7C+Performance+%7C+Long-term+Maintenance;REST+APIs+%7C+Firebase+%7C+WebSockets+%7C+Maps;RevenueCat+%7C+Subscriptions+%7C+Payments+%7C+Releases;Production+mobile+products+for+real+users+and+clients" alt="typing animation" />
-</p>
-
 <h1 align="center">Hi, I'm Faisal</h1>
-<h3 align="center">Senior Mobile App Engineer for Flutter, Kotlin Multiplatform, Android, and iOS</h3>
+<h3 align="center">Senior Mobile App Engineer | Flutter, Kotlin Multiplatform, Android, iOS</h3>
 
 <!-- Unified contact links -->
 <p align="center">
@@ -21,13 +16,6 @@
   <a href="https://twitter.com/faisalarshad850"><img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<!-- Lightweight credibility badges -->
-<p align="center">
-  <img src="https://img.shields.io/github/followers/faisalarshadciit?label=Followers&logo=github&style=for-the-badge" alt="GitHub Followers"/>
-  <img src="https://komarev.com/ghpvc/?username=faisalarshadciit&label=Profile%20Views&color=0ea5e9&style=for-the-badge" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/stars/faisalarshadciit?label=GitHub%20Stars&logo=github&style=for-the-badge" alt="GitHub Stars"/>
-</p>
-
 <!-- CTA -->
 <p align="center">
   <b>Open to freelance mobile projects, senior mobile engineering roles, and long-term product partnerships.</b>
@@ -37,11 +25,11 @@
 
 ### About Me
 
-I am a Senior Mobile App Engineer with 5+ years of experience building production mobile applications for Android and iOS with Flutter, Kotlin Multiplatform, Kotlin, Jetpack Compose, SwiftUI, and Java.
+I build production mobile applications for Android and iOS with Flutter, Kotlin Multiplatform, Kotlin, Jetpack Compose, SwiftUI, and Java, with a focus on products that need strong architecture, reliable releases, and long-term maintainability.
 
-My work focuses on mobile architecture, feature delivery, API integrations, release ownership, monetization flows, and long-term product maintenance across both public store apps and private client products.
+My work covers feature delivery, API integrations, monetization, app store releases, and production support across both public apps and private client platforms.
 
-I have delivered 10+ published apps across Google Play and the App Store in finance, trading, lifestyle, productivity, and utility domains, and I use AI-assisted workflows when they help speed up debugging, implementation, and technical problem solving.
+I have delivered `10+` published apps across Google Play and the App Store in finance, trading, lifestyle, productivity, and utility domains.
 
 <p align="start">
   <b>I build mobile products that are scalable, maintainable, and production ready.</b>
@@ -64,8 +52,6 @@ I have delivered 10+ published apps across Google Play and the App Store in fina
 
 ### Published Apps
 
-This section highlights shipped mobile products with public store presence, user adoption, and review history.
-
 <p align="center">
   <img src="https://img.shields.io/badge/Total_Apps-10%2B-blue?style=for-the-badge&logo=appstore&logoColor=white"/>
   <img src="https://img.shields.io/badge/Total_Installs-200K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
@@ -75,150 +61,145 @@ This section highlights shipped mobile products with public store presence, user
 
 #### Featured Shipped Apps
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/ydoQ92cr0Z_PHVXur-YuVvRSNbi46DzqH35tQ19I4nWuCGs9d0_4BpOkP09vT4IxEg=w240-h480" width="64" alt="Petrol Price App Icon"/><br/>
-        <strong>Pakistan Petrol Price Today</strong><br/>
-        <sub>Utility app with strong adoption and dual-store presence.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-100K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.5_(3K%2B)-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.atrule.pakistanpetrolpricetoday"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/pakistan-petrol-price-today/id6468675163"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/NSnf15S86-b8i0V6nRo16v9zdwsU3Y2_CHAt2r0gYUMvuqhNiErf64IsP8H9m7p6Sw=s48-rw" width="64" alt="STINU Icon"/><br/>
-        <strong>STINU Position Size Calculator</strong><br/>
-        <sub>Finance and trading calculator with large public usage.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-100K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.0_(2K%2B)-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.stinu"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/stinu-position-size-calculator/id1415292923"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/kdQxi_pECUJQbMop-Aid-H4xc88eHplmhELPO4S31lkecDMnlk_0xVMwZMdIb13qmQ=w240-h480" width="64" alt="Motorway Conditions Icon"/><br/>
-        <strong>Motorway Road Conditions Today</strong><br/>
-        <sub>Public-facing utility product with high ratings and repeat usage.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-50K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.7_(2K%2B)-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.atrule.weatherhighway"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/motorway-conditions-today/id6472891321"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/tU7NVq3N_BtfVvlHUtcOpFs3D-9s7TXg4or_G9p2z5jbAzl63NZNZoG41MO50XJ0kg=w240-h480" width="64" alt="Market Countdown Icon"/><br/>
-        <strong>Market Countdown Times &amp; News</strong><br/>
-        <sub>Market timing and news product with strong user sentiment.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-10K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-5.0_(666)-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.marketcountdown"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/market-countdown-times-news/id1668967522"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/6ZJ49PrtzS_ZvdyXpuwuE4PkscmvTUhLfSwOCUFQwBQd2wdu-OZSITt3YyLT3YjWskE=w240-h480-rw" width="64" alt="FX Meter Icon"/><br/>
-        <strong>FX Meter</strong><br/>
-        <sub>Trading-focused mobile app with public store traction.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-10K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.6_(713)-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.fxmeter"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/fx-meter-currency-strength/id1286671384"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/B3NMFWjUx5B5iXyHLOC1_o70Thzq0XCLQEkp2bt3CCKkhHKOjhE6_ycKj1qMTJhMlHo=w240-h480" width="64" alt="Market Opens Icon"/><br/>
-        <strong>Market Opens</strong><br/>
-        <sub>Finance utility app published across both stores.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-10K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.5-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.marketopens"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/market-opens/id1570812994"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-    </tr>
-  </table>
-</p>
+<table width="100%" style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/ydoQ92cr0Z_PHVXur-YuVvRSNbi46DzqH35tQ19I4nWuCGs9d0_4BpOkP09vT4IxEg=w240-h480" width="72" alt="Pakistan Petrol Price Today"/><br/><br/>
+      <strong>Pakistan Petrol Price Today</strong><br/>
+      <sub>Live petrol price updates, fuel alerts, station locator, mileage tracking, and maintenance reminders.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-100K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="Pakistan Petrol Price installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-4.5_(3K%2B)-0ea5e9?style=for-the-badge&labelColor=414141" alt="Pakistan Petrol Price rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.atrule.pakistanpetrolpricetoday"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Pakistan Petrol Price Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/pakistan-petrol-price-today/id6468675163"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Pakistan Petrol Price App Store"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/NSnf15S86-b8i0V6nRo16v9zdwsU3Y2_CHAt2r0gYUMvuqhNiErf64IsP8H9m7p6Sw=s48-rw" width="72" alt="STINU Position Size Calculator"/><br/><br/>
+      <strong>STINU Position Size Calculator</strong><br/>
+      <sub>Live position sizing and risk calculator for forex, commodities, and crypto trades.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-100K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="STINU installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-3.6_(1.45K)-0ea5e9?style=for-the-badge&labelColor=414141" alt="STINU rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.stinu"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="STINU Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/stinu-position-size-calculator/id1415292923"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="STINU App Store"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/kdQxi_pECUJQbMop-Aid-H4xc88eHplmhELPO4S31lkecDMnlk_0xVMwZMdIb13qmQ=w240-h480" width="72" alt="Motorway Road Conditions Today"/><br/><br/>
+      <strong>Motorway Road Conditions Today</strong><br/>
+      <sub>Real-time motorway conditions, fog alerts, weather updates, and route support for Pakistan.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-50K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="Motorway installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-4.2_(2.06K)-0ea5e9?style=for-the-badge&labelColor=414141" alt="Motorway rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.atrule.weatherhighway"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Motorway Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/motorway-conditions-today/id6472891321"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Motorway App Store"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/tU7NVq3N_BtfVvlHUtcOpFs3D-9s7TXg4or_G9p2z5jbAzl63NZNZoG41MO50XJ0kg=w240-h480" width="72" alt="Market Countdown Times and News"/><br/><br/>
+      <strong>Market Countdown Times &amp; News</strong><br/>
+      <sub>Market session countdowns, economic news, bank holidays, widgets, and trading notifications.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-10K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="Market Countdown installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-4.3_(631)-0ea5e9?style=for-the-badge&labelColor=414141" alt="Market Countdown rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.marketcountdown"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Market Countdown Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/market-countdown-times-news/id1668967522"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Market Countdown App Store"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/6ZJ49PrtzS_ZvdyXpuwuE4PkscmvTUhLfSwOCUFQwBQd2wdu-OZSITt3YyLT3YjWskE=w240-h480-rw" width="72" alt="FX Meter"/><br/><br/>
+      <strong>FX Meter</strong><br/>
+      <sub>Currency strength analysis app with daily expert updates and historical strength data.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-10K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="FX Meter installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-3.2_(330)-0ea5e9?style=for-the-badge&labelColor=414141" alt="FX Meter rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.fxmeter"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="FX Meter Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/fx-meter-currency-strength/id1286671384"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="FX Meter App Store"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/B3NMFWjUx5B5iXyHLOC1_o70Thzq0XCLQEkp2bt3CCKkhHKOjhE6_ycKj1qMTJhMlHo=w240-h480" width="72" alt="Market Opens"/><br/><br/>
+      <strong>Market Opens</strong><br/>
+      <sub>Forex market open and close tracker with countdowns and time zone conversion.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-10K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="Market Opens installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-4.5-0ea5e9?style=for-the-badge&labelColor=414141" alt="Market Opens rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.marketopens"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Market Opens Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/market-opens/id1570812994"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Market Opens App Store"/></a>
+    </td>
+  </tr>
+</table>
 
 #### Additional Published Apps
 
-<p align="center">
-  <table>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/3DlnF-fz8otJnyX6poWXHaiM8qPWDiiMdiSWwXnhNKkPcWoo00E4Jf8rLCCl0q8be4M=w240-h480" width="64" alt="Pakistani Brands Icon"/><br/>
-        <strong>Pakistani Brands</strong><br/>
-        <sub>Commerce discovery app for browsing local brands.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-5K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.1_(52)-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.atrule.fashionapp"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/pakistani-brands/id6476684286"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/QuZqQCJ53bM9dJ3n4xVg7FnhGTeDP2Rn3jPQZ0Grq67ffl8H4mkLoKyPpi6i3XA9WB_U=w480-h960-rw" width="64" alt="Pakistan History Timeline Icon"/><br/>
-        <strong>Pakistan History Timeline</strong><br/>
-        <sub>Educational history product with public store presence.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-5K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.1_(12)-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.atrule.pakistan"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/pakistan-history-timeline/id6476189201"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/DZftg28SuucshlLeWKvzCDfYwFm7ucUbY0Zv-bcDdP-M7_7AeIoqq_ZkyRK7b1_ZQRE=w240-h480" width="64" alt="MarketBeats Icon"/><br/>
-        <strong>MarketBeats - Activity Monitor</strong><br/>
-        <sub>Finance product focused on signal and activity monitoring.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-5K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.3-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvesments.marketbeats"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/market-beats-forex-signals/id1668968485"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/Th7gvhrIMUAleNekY22tEY4JDe5EavV2xyA0t6z8zDcnhP_iG1uyXWFq9HBb_jhke90=w240-h480" width="64" alt="Kivora Icon"/><br/>
-        <strong>Kivora - Trading Mindset</strong><br/>
-        <sub>Trading mindset product with strong early feedback.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-1K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-5.0-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.kivora"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/kivora-trading-mindset/id6741102936"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/6MS5KUBPCZ6UxgKHi4go2axIgywf9jd5E8TJMYqH4Vq99RkNuXMAt-mSwqPxcwNwgVw=w240-h480-rw" width="64" alt="Position Pal Icon"/><br/>
-        <strong>Position Pal</strong><br/>
-        <sub>Market calculator app published for active traders.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-1K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-4.0-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvesments.positionpal"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/position-pal-stock-market-calc/id6447934226"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-      <td align="center" width="33%">
-        <img src="https://play-lh.googleusercontent.com/DTQJK3HLPx539hWwb_-DqPph34qrUql9d5ynuST6WepHMe42Z73xr5HV5eHVQX5JDU0=w240-h480" width="64" alt="Moye Moye Icon"/><br/>
-        <strong>Moye Moye - Weather Fun</strong><br/>
-        <sub>Weather-based entertainment app with strong early ratings.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-1K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-5.0-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=com.atrule.bakwaasmausam"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/us/app/moye-moye-making-weather-fun/id6479732025"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <img src="https://play-lh.googleusercontent.com/3dXKkRrdw0VURIlSDv7cwbA0TW0uhbCRNkO5Phk_rkqgXnhvmMzO3ncpjqxYBlpJ_pmSi8k_f4g-LbeHkgU6kGI=w240-h480-rw" width="64" alt="BrainEquity Icon"/><br/>
-        <strong>BrainEquity Track Your Habits</strong><br/>
-        <sub>Habit-tracking product launched across public stores.</sub><br/>
-        <img src="https://img.shields.io/badge/Installs-1K%2B-brightgreen?style=for-the-badge&logo=google-play&logoColor=white"/>
-        <img src="https://img.shields.io/badge/Rating-5.0-blue?style=for-the-badge"/> <br/>
-        <a href="https://play.google.com/store/apps/details?id=app.brainequity.brainequity"><img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/></a>
-        <a href="https://apps.apple.com/tt/app/brainequity-track-your-habits/id6745442620"><img src="https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white"/></a>
-      </td>
-    </tr>
-  </table>
-</p>
+<table width="100%" style="width: 100%; table-layout: fixed;">
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/3DlnF-fz8otJnyX6poWXHaiM8qPWDiiMdiSWwXnhNKkPcWoo00E4Jf8rLCCl0q8be4M=w240-h480" width="72" alt="Pakistani Brands"/><br/><br/>
+      <strong>Pakistani Brands</strong><br/>
+      <sub>Shopping app that brings Pakistani fashion brands, deals, and wishlists into one place.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-5K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="Pakistani Brands installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-4.1_(52)-0ea5e9?style=for-the-badge&labelColor=414141" alt="Pakistani Brands rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.atrule.fashionapp"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Pakistani Brands Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/pakistani-brands/id6476684286"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Pakistani Brands App Store"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/QuZqQCJ53bM9dJ3n4xVg7FnhGTeDP2Rn3jPQZ0Grq67ffl8H4mkLoKyPpi6i3XA9WB_U=w480-h960-rw" width="72" alt="Pakistan History Timeline"/><br/><br/>
+      <strong>Pakistan History Timeline</strong><br/>
+      <sub>Pakistan history reference covering timelines, ideologies, politics, culture, and major events.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-5K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="Pakistan History installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-4.1_(12)-0ea5e9?style=for-the-badge&labelColor=414141" alt="Pakistan History rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.atrule.pakistan"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Pakistan History Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/pakistan-history-timeline/id6476189201"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Pakistan History App Store"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/DZftg28SuucshlLeWKvzCDfYwFm7ucUbY0Zv-bcDdP-M7_7AeIoqq_ZkyRK7b1_ZQRE=w240-h480" width="72" alt="MarketBeats - Activity Monitor"/><br/><br/>
+      <strong>MarketBeats - Activity Monitor</strong><br/>
+      <sub>Forex alert app for unusual market activity, high-probability moves, and pair/timeframe monitoring.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-1K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="MarketBeats installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-4.3-0ea5e9?style=for-the-badge&labelColor=414141" alt="MarketBeats rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvesments.marketbeats"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="MarketBeats Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/market-beats-forex-signals/id1668968485"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="MarketBeats App Store"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/Th7gvhrIMUAleNekY22tEY4JDe5EavV2xyA0t6z8zDcnhP_iG1uyXWFq9HBb_jhke90=w240-h480" width="72" alt="Kivora - Trading Mindset"/><br/><br/>
+      <strong>Kivora - Trading Mindset</strong><br/>
+      <sub>Meditation app for traders focused on discipline, emotional control, and mental resilience.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-1K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="Kivora installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-5.0-0ea5e9?style=for-the-badge&labelColor=414141" alt="Kivora rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvestments.kivora"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Kivora Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/kivora-trading-mindset/id6741102936"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Kivora App Store"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/6MS5KUBPCZ6UxgKHi4go2axIgywf9jd5E8TJMYqH4Vq99RkNuXMAt-mSwqPxcwNwgVw=w240-h480-rw" width="72" alt="Position Pal"/><br/><br/>
+      <strong>Position Pal</strong><br/>
+      <sub>Position size calculator for NYSE, NASDAQ, and index trades with shareable trade setups.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-1K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="Position Pal installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-4.0-0ea5e9?style=for-the-badge&labelColor=414141" alt="Position Pal rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.blacktowerinvesments.positionpal"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Position Pal Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/position-pal-stock-market-calc/id6447934226"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Position Pal App Store"/></a>
+    </td>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/DTQJK3HLPx539hWwb_-DqPph34qrUql9d5ynuST6WepHMe42Z73xr5HV5eHVQX5JDU0=w240-h480" width="72" alt="Moye Moye - Weather Fun"/><br/><br/>
+      <strong>Moye Moye - Weather Fun</strong><br/>
+      <sub>Real-time weather app that mixes accurate forecasts with humor-driven daily updates.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-1K%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="Moye Moye installs"/><br/>
+      <img src="https://img.shields.io/badge/RATING-5.0-0ea5e9?style=for-the-badge&labelColor=414141" alt="Moye Moye rating"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=com.atrule.bakwaasmausam"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="Moye Moye Google Play"/></a><br/>
+      <a href="https://apps.apple.com/us/app/moye-moye-making-weather-fun/id6479732025"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="Moye Moye App Store"/></a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="33%">
+      <img src="https://play-lh.googleusercontent.com/3dXKkRrdw0VURIlSDv7cwbA0TW0uhbCRNkO5Phk_rkqgXnhvmMzO3ncpjqxYBlpJ_pmSi8k_f4g-LbeHkgU6kGI=w240-h480-rw" width="72" alt="BrainEquity Track Your Habits"/><br/><br/>
+      <strong>BrainEquity Track Your Habits</strong><br/>
+      <sub>Habit tracker for traders with readiness scoring and pre-market and post-market routines.</sub><br/><br/>
+      <img src="https://img.shields.io/badge/INSTALLS-100%2B-22c55e?style=for-the-badge&labelColor=414141&logo=google-play&logoColor=white" alt="BrainEquity installs"/><br/>
+      <a href="https://play.google.com/store/apps/details?id=app.brainequity.brainequity"><img src="https://img.shields.io/badge/GOOGLE_PLAY-414141?style=for-the-badge&logo=google-play&logoColor=white" alt="BrainEquity Google Play"/></a><br/>
+      <a href="https://apps.apple.com/tt/app/brainequity-track-your-habits/id6745442620"><img src="https://img.shields.io/badge/APP_STORE-0D96F6?style=for-the-badge&logo=app-store&logoColor=white" alt="BrainEquity App Store"/></a>
+    </td>
+    <td width="33%">&nbsp;</td>
+    <td width="33%">&nbsp;</td>
+  </tr>
+</table>
 
 ---
 
 ### Client / Private Projects
-
-These are representative private and commercial products delivered for real client workflows across commerce, operations, community, and service platforms.
 
 #### Commerce, Property, Booking, and Delivery
 
@@ -256,7 +237,6 @@ These are representative private and commercial products delivered for real clie
       <em>Order Delivery</em><br/>
       <sub>Customer, courier, and store flows for placing, assigning, and delivering orders.</sub>
     </td>
-    <td align="center"></td>
   </tr>
 </table>
 
@@ -377,63 +357,7 @@ These are representative private and commercial products delivered for real clie
 
 ---
 
-## Client Reviews & Ratings
-
-These are selected reviews from public freelance and professional platforms, kept here as visible proof of delivery quality and client trust.
-
-### Upwork
-
-<p><b>Selected Upwork feedback from 5.0-rated client work.</b></p>
-
-> He is a strong developer who completes things on time, a strong experienced flutter developer.
-
-<img src="assets/reviews/upwork1.png" width="650"/>
-
-> Faisal was very good technically strong and delivered things on time. Good experience with flutter and mobile app development.
-
-<img src="assets/reviews/upwork2.png" width="650"/>
-
-> I am good to work with Faisal Arshad. He is very good knowledge and experience.
-
-<img src="assets/reviews/upwork3.png" width="650"/>
-
-> Mr. Arshad did the required job perfectly. Code is clean, communication with him was good. I enjoyed working with him, he will be my first choice in the coming projects.
-
-<img src="assets/reviews/upwork4.png" width="650"/>
-
----
-
-### Fiverr
-
-<p><b>Selected Fiverr feedback from mobile app problem-solving and delivery work.</b></p>
-
-> Outstanding experience. He solved all my problems on my app.
-
-<img src="assets/reviews/fiverr1.png" width="650"/>
-
-> Very efficient!
-
-<img src="assets/reviews/fiverr2.png" width="650"/>
-
----
-
-### LinkedIn
-
-<p><b>Professional recommendations highlighting delivery quality and collaboration.</b></p>
-
-> Collaborating with Faisal Arshad was a game changer. Their expertise in mobile app development and attention to detail elevated our project.
-
-<img src="assets/reviews/linkedin1.png" width="650"/>
-
-> Faisal is best android developer. He is well organized, diligent, and a fast learner.
-
-<img src="assets/reviews/linkedin2.png" width="650"/>
-
----
-
 ### Featured Repositories
-
-These repositories represent public code samples, reusable ideas, and implementation patterns that support my mobile engineering portfolio.
 
 <p align="center">
   <a href="https://github.com/faisalarshadciit/GoogleAdMob-Flutter">
@@ -464,9 +388,47 @@ These repositories represent public code samples, reusable ideas, and implementa
 
 ---
 
-### Tech Stack
+## Client Reviews & Ratings
 
-This is a curated view of the tools and capabilities that most directly support my work as a senior mobile engineer.
+### Upwork Reviews
+
+> He is a strong developer who completes things on time, a strong experienced flutter developer.
+
+<img src="assets/reviews/upwork1.png" width="650"/>
+
+> Faisal was very good technically strong and delivered things on time. Good experience with flutter and mobile app development.
+
+<img src="assets/reviews/upwork2.png" width="650"/>
+
+> I am good to work with Faisal Arshad. He is very good knowledge and experience.
+
+<img src="assets/reviews/upwork3.png" width="650"/>
+
+---
+
+### Fiverr Reviews
+
+> Outstanding experience. He solved all my problems on my app.
+
+<img src="assets/reviews/fiverr1.png" width="650"/>
+
+---
+
+### LinkedIn Recommendations
+
+> Collaborating with Faisal Arshad was a game changer. Their expertise in mobile app development and attention to detail elevated our project.
+
+<img src="assets/reviews/linkedin1.png" width="650"/>
+
+> Faisal is best android developer. He is well organized, diligent, and a fast learner.
+
+<img src="assets/reviews/linkedin2.png" width="650"/>
+
+<p><b>More review screenshots can move into a dedicated testimonials page when this portfolio becomes a website.</b></p>
+
+---
+
+### Tech Stack
 
 **Languages**
 
@@ -503,7 +465,6 @@ This is a curated view of the tools and capabilities that most directly support 
 
 <p>
   <img src="https://img.shields.io/badge/RevenueCat-FF6F00?style=for-the-badge" alt="RevenueCat"/>
-  <img src="https://img.shields.io/badge/AdMob-4285F4?style=for-the-badge&logo=googleads&logoColor=white" alt="AdMob"/>
   <img src="https://img.shields.io/badge/Google%20Pay-4285F4?style=for-the-badge&logo=googlepay&logoColor=white" alt="Google Pay"/>
   <img src="https://img.shields.io/badge/Apple%20Pay-000000?style=for-the-badge&logo=applepay&logoColor=white" alt="Apple Pay"/>
   <img src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" alt="Stripe"/>
@@ -518,22 +479,16 @@ This is a curated view of the tools and capabilities that most directly support 
   <img src="https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
   <img src="https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white" alt="Codex"/>
   <img src="https://img.shields.io/badge/Claude-D97706?style=for-the-badge" alt="Claude"/>
-  <img src="https://img.shields.io/badge/Make.com-6366F1?style=for-the-badge" alt="Make"/>
+  <img src="https://img.shields.io/badge/Make.com-6366F1?style=for-the-badge" alt="Make.com"/>
 </p>
 
 ---
 
 ### GitHub Stats
 
-These stats are supporting profile signals, kept secondary to product and client proof.
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=faisalarshadciit&theme=github-dark&hide_border=true" height="170"/>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=faisalarshadciit&theme=github_dark" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=faisalarshadciit&theme=github_dark" height="170"/>
 </p>
 
 ---
@@ -545,8 +500,6 @@ I am available for freelance mobile app projects, senior mobile engineering role
 ---
 
 ### Certifications
-
-This is supporting proof of my automation background, kept secondary to my mobile engineering portfolio.
 
 <p align="center">
   <a href="https://www.credly.com/badges/88b847de-fd89-4629-ae66-3fea5d514920/linked_in_profile" target="_blank">
