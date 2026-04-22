@@ -516,7 +516,7 @@
       <em>Cricket Guides & Stats</em><br/>
       <sub>IPL guides, points tables, league references, and cricket statistics.</sub>
     </td>
-    <td align="center" width="33%"></td>
+    <td align="center" width="33%">&nbsp;</td>
   </tr>
 </table>
 
