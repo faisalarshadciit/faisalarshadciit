@@ -373,19 +373,19 @@
       <img src="assets/private-projects/lylacart-shopping.png" width="64" alt="LylaCart Shopping Suite"/><br/>
       <strong>LylaCart Shopping Suite</strong><br/>
       <em>Regional E-Commerce</em><br/>
-      <sub>Current and legacy LylaCart shopping builds for localized catalog and checkout flows.</sub>
+      <sub>Localized multi-vendor shopping with offers, carts, and checkout.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/private-projects/furniture-store.png" width="64" alt="Furniture Store Android App"/><br/>
-      <strong>Furniture Store Android App</strong><br/>
+      <img src="assets/private-projects/furniture-store.png" width="64" alt="Furniture Store"/><br/>
+      <strong>Furniture Store</strong><br/>
       <em>Furniture E-Commerce</em><br/>
-      <sub>Catalog, favourites, cart, and order history.</sub>
+      <sub>Furniture discovery with favourites, cart, and order tracking.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/housing-organiser.png" width="64" alt="Housing Organiser"/><br/>
       <strong>Housing Organiser</strong><br/>
       <em>Real Estate Marketplace</em><br/>
-      <sub>Property listing flows for selling and renting.</sub>
+      <sub>Property listings and discovery for buying, selling, and renting.</sub>
     </td>
   </tr>
   <tr>
@@ -393,15 +393,20 @@
       <img src="assets/private-projects/private-elderly-care.jpg" width="64" alt="Private Elderly Care"/><br/>
       <strong>Private Elderly Care</strong><br/>
       <em>Caregiving / Premium Marketplace</em><br/>
-      <sub>Caregiving, premium video, and marketplace features.</sub>
+      <sub>Caregiving services with premium content and assisted booking flows.</sub>
     </td>
     <td align="center">
-      <img src="assets/private-projects/virtual-garage.png" width="64" alt="Virtual Garage"/><br/>
-      <strong>Virtual Garage</strong><br/>
-      <em>Driver / Tracking App</em><br/>
-      <sub>Driver auth, OTP, and location tracking.</sub>
+      <img src="assets/private-projects/client-book-up.png" width="64" alt="BookUp Services"/><br/>
+      <strong>BookUp Services</strong><br/>
+      <em>Service Booking Marketplace</em><br/>
+      <sub>Appointments, chat, maps, and payments for local service booking.</sub>
     </td>
-    <td align="center"></td>
+    <td align="center">
+      <img src="assets/private-projects/marsol.png" width="64" alt="Fawry Delivery Platform"/><br/>
+      <strong>Fawry Delivery Platform</strong><br/>
+      <em>On-Demand Delivery</em><br/>
+      <sub>Customer, courier, and store workflows for ordering and delivery.</sub>
+    </td>
   </tr>
 </table>
 
@@ -410,103 +415,78 @@
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
-      <img src="assets/private-projects/busibeez.png" width="64" alt="BusiBeez Platform"/><br/>
-      <strong>BusiBeez Platform</strong><br/>
+      <img src="assets/private-projects/busibeez.png" width="64" alt="BusiBeez"/><br/>
+      <strong>BusiBeez</strong><br/>
       <em>Business Networking / Deals</em><br/>
-      <sub>Main and internal BB mobile builds for ads, messaging, promotions, and deal workflows.</sub>
+      <sub>Business networking with ads, messaging, promotions, and deal flows.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/private-projects/client-book-up.png" width="64" alt="Client Book-Up Android"/><br/>
-      <strong>Client Book-Up Android</strong><br/>
-      <em>Booking / Service Marketplace</em><br/>
-      <sub>Appointments, chat, maps, and payments.</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/private-projects/aajizz-admin.png" width="64" alt="Aajizz Admin App"/><br/>
-      <strong>Aajizz Admin App</strong><br/>
+      <img src="assets/private-projects/aajizz-admin.png" width="64" alt="Aajizz Admin"/><br/>
+      <strong>Aajizz Admin</strong><br/>
       <em>Admin / KYC & Campaign Ops</em><br/>
-      <sub>KYC, campaigns, users, and withdrawals.</sub>
+      <sub>KYC review, campaigns, users, and withdrawal operations.</sub>
     </td>
-  </tr>
-  <tr>
-    <td align="center">
+    <td align="center" width="33%">
       <img src="assets/private-projects/lylacart-admin.png" width="64" alt="LylaCart Admin Suite"/><br/>
       <strong>LylaCart Admin Suite</strong><br/>
-      <em>Admin / Commerce Ops</em><br/>
-      <sub>Current and legacy LylaCart admin dashboards for products, orders, ads, and analytics.</sub>
-    </td>
-    <td align="center">
-      <img src="assets/private-projects/furniture-admin.jpg" width="64" alt="Furniture Store Android Admin"/><br/>
-      <strong>Furniture Store Android Admin</strong><br/>
-      <em>Admin / Catalog Management</em><br/>
-      <sub>Product uploads and Firebase catalog control.</sub>
-    </td>
-    <td align="center">
-      <img src="assets/private-projects/epp-film.png" width="64" alt="EPP Film Production App"/><br/>
-      <strong>EPP Film Production App</strong><br/>
-      <em>Internal Content Management</em><br/>
-      <sub>Catalogs, uploads, search, and exports.</sub>
+      <em>Commerce Operations</em><br/>
+      <sub>Products, orders, ads, and analytics for LylaCart operations.</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/private-projects/webate-admin.png" width="64" alt="WEBATE Admin App"/><br/>
-      <strong>WEBATE Admin App</strong><br/>
-      <em>Hospitality Admin / Hotel Ops</em><br/>
-      <sub>Hotels, menus, offers, and events.</sub>
+      <img src="assets/private-projects/furniture-admin.jpg" width="64" alt="Furniture Store Admin"/><br/>
+      <strong>Furniture Store Admin</strong><br/>
+      <em>Catalog Management</em><br/>
+      <sub>Firebase-based product publishing and catalog maintenance.</sub>
     </td>
     <td align="center">
-      <img src="assets/private-projects/marsol.png" width="64" alt="Fawry Delivery Platform"/><br/>
-      <strong>Fawry Delivery Platform</strong><br/>
-      <em>Commerce / Delivery Platform</em><br/>
-      <sub>Modular user, delegate, store, chat, and order flows.</sub>
+      <img src="assets/private-projects/epp-film.png" width="64" alt="EPP Film Studio"/><br/>
+      <strong>EPP Film Studio</strong><br/>
+      <em>Internal Content Management</em><br/>
+      <sub>Production catalogs, uploads, search, and export workflows.</sub>
     </td>
-    <td align="center"></td>
+    <td align="center">
+      <img src="assets/private-projects/webate-admin.png" width="64" alt="WEBATE Admin"/><br/>
+      <strong>WEBATE Admin</strong><br/>
+      <em>Hospitality Operations</em><br/>
+      <sub>Hotel setup, menus, offers, events, and admin-side controls.</sub>
+    </td>
   </tr>
 </table>
 
-#### Finance, Utility & Productivity
+#### Finance, Wellness & Safety
 
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
-      <img src="assets/private-projects/aajizz-mobile.png" width="64" alt="Aajizz Mobile App"/><br/>
-      <strong>Aajizz Mobile App</strong><br/>
-      <em>Donations / QR E-Stamps</em><br/>
-      <sub>Wallet donations with QR e-stamps.</sub>
+      <img src="assets/private-projects/aajizz-mobile.png" width="64" alt="Aajizz"/><br/>
+      <strong>Aajizz</strong><br/>
+      <em>Donation & Wallet Platform</em><br/>
+      <sub>QR e-stamps, wallet donations, and guided contribution flows.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/private-projects/eatwell.png" width="64" alt="EatWell App"/><br/>
-      <strong>EatWell App</strong><br/>
+      <img src="assets/private-projects/eatwell.png" width="64" alt="EatWell"/><br/>
+      <strong>EatWell</strong><br/>
       <em>Nutrition / Meal Planning</em><br/>
-      <sub>Diet onboarding and meal plan prototype.</sub>
+      <sub>Diet onboarding with guided meal plans and wellness tracking.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/private-projects/qr-code-generator.webp" width="64" alt="QR Code Generator Android App"/><br/>
-      <strong>QR Code Generator Android App</strong><br/>
-      <em>Utility / QR + WebView</em><br/>
-      <sub>Text-to-QR generation with fallback WebView.</sub>
+      <img src="assets/private-projects/qr-code-generator.webp" width="64" alt="QR Code Generator"/><br/>
+      <strong>QR Code Generator</strong><br/>
+      <em>Utility / QR Tools</em><br/>
+      <sub>Fast text-to-QR creation with local save flow and web fallback.</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/private-projects/linkedin-post-fetcher.png" width="64" alt="LinkedIn Post Fetcher"/><br/>
-      <strong>LinkedIn Post Fetcher</strong><br/>
-      <em>Utility / Content Extraction</em><br/>
-      <sub>Fetches LinkedIn post text quickly.</sub>
+      <img src="assets/private-projects/man-overboard.png" width="64" alt="Man Overboard"/><br/>
+      <strong>Man Overboard</strong><br/>
+      <em>Safety / Rescue Response</em><br/>
+      <sub>Emergency reporting with maps, weather, and rescue coordination.</sub>
     </td>
-    <td align="center">
-      <img src="assets/private-projects/faisal-upwork-assistant.png" width="64" alt="Faisal Upwork Assistant"/><br/>
-      <strong>Faisal Upwork Assistant</strong><br/>
-      <em>Browser Extension / Upwork</em><br/>
-      <sub>Proposal helper for a single profile.</sub>
-    </td>
-    <td align="center">
-      <img src="assets/private-projects/upwork-job-insights.png" width="64" alt="Upwork Job Insights Team Extension"/><br/>
-      <strong>Upwork Job Insights Team Extension</strong><br/>
-      <em>Browser Extension / Shared Workflow</em><br/>
-      <sub>Scoring, alerts, and AI proposal support.</sub>
-    </td>
+    <td align="center"></td>
+    <td align="center"></td>
   </tr>
 </table>
 
@@ -518,50 +498,30 @@
       <img src="assets/private-projects/boom-entertainment.png" width="64" alt="Boom Entertainment"/><br/>
       <strong>Boom Entertainment</strong><br/>
       <em>OTT Streaming / Live TV</em><br/>
-      <sub>Movies, live TV, downloads, and subscriptions.</sub>
+      <sub>Movies, live TV, downloads, and subscription-based streaming.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/private-projects/hemisferio.png" width="64" alt="Hemisferio Android App"/><br/>
-      <strong>Hemisferio Android App</strong><br/>
+      <img src="assets/private-projects/hemisferio.png" width="64" alt="Hemisferio"/><br/>
+      <strong>Hemisferio</strong><br/>
       <em>Community / Resident Services</em><br/>
-      <sub>Resident messaging and society services.</sub>
+      <sub>Resident communication and community service management.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/private-projects/webate-android.png" width="64" alt="WEBATE Android App"/><br/>
-      <strong>WEBATE Android App</strong><br/>
+      <img src="assets/private-projects/webate-android.png" width="64" alt="WEBATE"/><br/>
+      <strong>WEBATE</strong><br/>
       <em>Hospitality / Restaurant Discovery</em><br/>
-      <sub>Restaurants, offers, events, and QR redemption.</sub>
+      <sub>Restaurant discovery with offers, events, and QR redemption.</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/private-projects/sports-android.png" width="64" alt="Sports Android App"/><br/>
-      <strong>Sports Android App</strong><br/>
+      <img src="assets/private-projects/sports-android.png" width="64" alt="IPL Sports Guide"/><br/>
+      <strong>IPL Sports Guide</strong><br/>
       <em>Sports / Cricket Guide</em><br/>
-      <sub>IPL guides, stats, and tables.</sub>
-    </td>
-    <td align="center">
-      <img src="assets/private-projects/man-overboard.png" width="64" alt="Man Overboard Android App"/><br/>
-      <strong>Man Overboard Android App</strong><br/>
-      <em>Safety / Rescue Reporting</em><br/>
-      <sub>Maps, weather, and rescue reporting.</sub>
+      <sub>IPL-focused guides, stats, points tables, and league reference screens.</sub>
     </td>
     <td align="center"></td>
-  </tr>
-</table>
-
-#### Education & Assessment
-
-<table width="100%" style="table-layout: fixed;">
-  <tr>
-    <td align="center" width="33%">
-      <img src="assets/private-projects/exam-hub.png" width="64" alt="Exam Hub Online Assessment"/><br/>
-      <strong>Exam Hub Online Assessment</strong><br/>
-      <em>Education / Exams</em><br/>
-      <sub>Admin, teacher, and student exam flows.</sub>
-    </td>
-    <td align="center" width="33%"></td>
-    <td align="center" width="33%"></td>
+    <td align="center"></td>
   </tr>
 </table>
 
