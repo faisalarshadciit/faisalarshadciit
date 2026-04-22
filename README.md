@@ -365,166 +365,160 @@
 
 ### 🔒 Client / Private Projects  
 
-#### Commerce & Marketplace
+#### Commerce, Booking & Delivery
 
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
       <img src="assets/private-projects/lylacart-shopping.png" width="64" alt="LylaCart Shopping Suite"/><br/>
       <strong>LylaCart Shopping Suite</strong><br/>
-      <em>Regional E-Commerce</em><br/>
-      <sub>Localized multi-vendor shopping with offers, carts, and checkout.</sub>
+      <em>Localized Shopping Platform</em><br/>
+      <sub>Regional shopping experience with catalog browsing, offers, carts, and checkout.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/furniture-store.png" width="64" alt="Furniture Store"/><br/>
       <strong>Furniture Store</strong><br/>
-      <em>Furniture E-Commerce</em><br/>
-      <sub>Furniture discovery with favourites, cart, and order tracking.</sub>
+      <em>Furniture Shopping Platform</em><br/>
+      <sub>Furniture browsing, favourites, cart management, and order history in one flow.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/housing-organiser.png" width="64" alt="Housing Organiser"/><br/>
       <strong>Housing Organiser</strong><br/>
-      <em>Real Estate Marketplace</em><br/>
-      <sub>Property listings and discovery for buying, selling, and renting.</sub>
+      <em>Property Listings Platform</em><br/>
+      <sub>Property discovery and listing flows for buying, selling, and renting homes.</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="assets/private-projects/private-elderly-care.jpg" width="64" alt="Private Elderly Care"/><br/>
-      <strong>Private Elderly Care</strong><br/>
-      <em>Caregiving / Premium Marketplace</em><br/>
-      <sub>Caregiving services with premium content and assisted booking flows.</sub>
-    </td>
-    <td align="center">
       <img src="assets/private-projects/client-book-up.png" width="64" alt="BookUp Services"/><br/>
       <strong>BookUp Services</strong><br/>
-      <em>Service Booking Marketplace</em><br/>
-      <sub>Appointments, chat, maps, and payments for local service booking.</sub>
+      <em>Service Booking Platform</em><br/>
+      <sub>Find, book, and pay for local services with chat and map support.</sub>
     </td>
     <td align="center">
       <img src="assets/private-projects/marsol.png" width="64" alt="Fawry Delivery Platform"/><br/>
       <strong>Fawry Delivery Platform</strong><br/>
-      <em>On-Demand Delivery</em><br/>
-      <sub>Customer, courier, and store workflows for ordering and delivery.</sub>
+      <em>On-Demand Delivery Platform</em><br/>
+      <sub>Customer, courier, and store-side ordering workflows for delivery operations.</sub>
+    </td>
+    <td align="center">
+      <img src="assets/private-projects/webate-android.png" width="64" alt="WEBATE"/><br/>
+      <strong>WEBATE</strong><br/>
+      <em>Restaurant Discovery Platform</em><br/>
+      <sub>Discover restaurants, menus, offers, events, and QR-based redemption flows.</sub>
     </td>
   </tr>
 </table>
 
-#### Business & Admin Platforms
+#### Business Networks & Operations
 
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
       <img src="assets/private-projects/busibeez.png" width="64" alt="BusiBeez"/><br/>
       <strong>BusiBeez</strong><br/>
-      <em>Business Networking / Deals</em><br/>
-      <sub>Business networking with ads, messaging, promotions, and deal flows.</sub>
+      <em>Business Networking Platform</em><br/>
+      <sub>Business discovery, ads, promotions, messaging, and deal-making in one app.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/aajizz-admin.png" width="64" alt="Aajizz Admin"/><br/>
       <strong>Aajizz Admin</strong><br/>
-      <em>Admin / KYC & Campaign Ops</em><br/>
-      <sub>KYC review, campaigns, users, and withdrawal operations.</sub>
+      <em>Donation Operations Dashboard</em><br/>
+      <sub>Manage KYC, campaigns, users, approvals, and withdrawal workflows.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/lylacart-admin.png" width="64" alt="LylaCart Admin Suite"/><br/>
       <strong>LylaCart Admin Suite</strong><br/>
-      <em>Commerce Operations</em><br/>
-      <sub>Products, orders, ads, and analytics for LylaCart operations.</sub>
+      <em>Commerce Operations Dashboard</em><br/>
+      <sub>Products, orders, promotions, notifications, and analytics for LylaCart teams.</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
       <img src="assets/private-projects/furniture-admin.jpg" width="64" alt="Furniture Store Admin"/><br/>
       <strong>Furniture Store Admin</strong><br/>
-      <em>Catalog Management</em><br/>
-      <sub>Firebase-based product publishing and catalog maintenance.</sub>
+      <em>Catalog Management Dashboard</em><br/>
+      <sub>Publish products, upload images, and maintain the furniture catalog.</sub>
     </td>
     <td align="center">
       <img src="assets/private-projects/epp-film.png" width="64" alt="EPP Film Studio"/><br/>
       <strong>EPP Film Studio</strong><br/>
-      <em>Internal Content Management</em><br/>
-      <sub>Production catalogs, uploads, search, and export workflows.</sub>
+      <em>Production Inventory System</em><br/>
+      <sub>Organize production catalogs, upload media, search records, and export reports.</sub>
     </td>
     <td align="center">
       <img src="assets/private-projects/webate-admin.png" width="64" alt="WEBATE Admin"/><br/>
       <strong>WEBATE Admin</strong><br/>
-      <em>Hospitality Operations</em><br/>
-      <sub>Hotel setup, menus, offers, events, and admin-side controls.</sub>
+      <em>Hospitality Operations Dashboard</em><br/>
+      <sub>Manage hotels, menus, offers, events, and day-to-day hospitality operations.</sub>
     </td>
   </tr>
 </table>
 
-#### Finance, Wellness & Safety
+#### Care, Wellness & Utility
 
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
+      <img src="assets/private-projects/private-elderly-care.jpg" width="64" alt="Private Elderly Care"/><br/>
+      <strong>Private Elderly Care</strong><br/>
+      <em>Caregiver Support Platform</em><br/>
+      <sub>Caregiver and employer onboarding with support tools, premium content, and care-focused services.</sub>
+    </td>
+    <td align="center" width="33%">
       <img src="assets/private-projects/aajizz-mobile.png" width="64" alt="Aajizz"/><br/>
       <strong>Aajizz</strong><br/>
-      <em>Donation & Wallet Platform</em><br/>
-      <sub>QR e-stamps, wallet donations, and guided contribution flows.</sub>
+      <em>Digital Giving Platform</em><br/>
+      <sub>QR e-stamps, wallet funding, and guided donation journeys for supporters.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/eatwell.png" width="64" alt="EatWell"/><br/>
       <strong>EatWell</strong><br/>
-      <em>Nutrition / Meal Planning</em><br/>
-      <sub>Diet onboarding with guided meal plans and wellness tracking.</sub>
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/private-projects/qr-code-generator.webp" width="64" alt="QR Code Generator"/><br/>
-      <strong>QR Code Generator</strong><br/>
-      <em>Utility / QR Tools</em><br/>
-      <sub>Fast text-to-QR creation with local save flow and web fallback.</sub>
+      <em>Nutrition Planning Platform</em><br/>
+      <sub>Personalized diet onboarding, meal plans, and role-based food delivery workflows.</sub>
     </td>
   </tr>
   <tr>
     <td align="center">
+      <img src="assets/private-projects/qr-code-generator.webp" width="64" alt="QR Code Generator"/><br/>
+      <strong>QR Code Generator</strong><br/>
+      <em>QR Utility Tool</em><br/>
+      <sub>Create QR codes from text, save them locally, and fall back to embedded web content.</sub>
+    </td>
+    <td align="center">
       <img src="assets/private-projects/man-overboard.png" width="64" alt="Man Overboard"/><br/>
       <strong>Man Overboard</strong><br/>
-      <em>Safety / Rescue Response</em><br/>
-      <sub>Emergency reporting with maps, weather, and rescue coordination.</sub>
+      <em>Maritime Emergency Response</em><br/>
+      <sub>Overboard incident reporting with maps, weather visibility, and rescue coordination tools.</sub>
     </td>
-    <td align="center"></td>
     <td align="center"></td>
   </tr>
 </table>
 
-#### Media, Community & Discovery
+#### Media, Community & Sports
 
 <table width="100%" style="table-layout: fixed;">
   <tr>
     <td align="center" width="33%">
       <img src="assets/private-projects/boom-entertainment.png" width="64" alt="Boom Entertainment"/><br/>
       <strong>Boom Entertainment</strong><br/>
-      <em>OTT Streaming / Live TV</em><br/>
-      <sub>Movies, live TV, downloads, and subscription-based streaming.</sub>
+      <em>Streaming & Live TV Platform</em><br/>
+      <sub>Watch movies, live TV, downloads, and subscription-based entertainment content.</sub>
     </td>
     <td align="center" width="33%">
       <img src="assets/private-projects/hemisferio.png" width="64" alt="Hemisferio"/><br/>
       <strong>Hemisferio</strong><br/>
-      <em>Community / Resident Services</em><br/>
-      <sub>Resident communication and community service management.</sub>
+      <em>Residential Community Platform</em><br/>
+      <sub>Resident communication, maintenance requests, community posts, and local services.</sub>
     </td>
     <td align="center" width="33%">
-      <img src="assets/private-projects/webate-android.png" width="64" alt="WEBATE"/><br/>
-      <strong>WEBATE</strong><br/>
-      <em>Hospitality / Restaurant Discovery</em><br/>
-      <sub>Restaurant discovery with offers, events, and QR redemption.</sub>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
       <img src="assets/private-projects/sports-android.png" width="64" alt="IPL Sports Guide"/><br/>
       <strong>IPL Sports Guide</strong><br/>
-      <em>Sports / Cricket Guide</em><br/>
-      <sub>IPL-focused guides, stats, points tables, and league reference screens.</sub>
+      <em>Cricket Reference Guide</em><br/>
+      <sub>IPL guides, betting references, stats, points tables, and league information.</sub>
     </td>
-    <td align="center"></td>
-    <td align="center"></td>
   </tr>
 </table>
-
 ---
 ## ⭐ Client Reviews & Ratings
 
@@ -669,4 +663,5 @@
 <p align="center">
   <em>Building mobile products that scale, perform, and last.</em>
 </p>
+
 
